@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Puneet Gupta"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Puneet.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My Portfolio"
   location         : "Bangalore, KA, India"
   email            : "samparkpuneet@gmail.com"
