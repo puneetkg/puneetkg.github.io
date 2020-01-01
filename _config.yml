@@ -132,7 +132,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/_p.u.n.e.e.t/"
     - label: "Resume"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-file"
       url: "https://docs.google.com/document/d/1PuBjTacuMSIDmRbx50e7ZPf3i36HuoxEKtMhr5MzRSY/edit?usp=sharing"
 # Site Footer
 footer:
@@ -294,3 +294,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
