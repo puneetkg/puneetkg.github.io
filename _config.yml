@@ -35,7 +35,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: _puneetkg # site's Twitter username, e.g. "mmistakes"
+  username: "_puneetkg" # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -85,7 +85,6 @@ defaults:
     values:
       layout: post
       share: true
-  # _posts
 
 # Site Author
 author: "Puneet Gupta"
