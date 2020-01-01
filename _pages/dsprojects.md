@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /problem-solving/
-title: "Projects"
+permalink: /projects/
+title: "ML Projects"
 author_profile: true
 header:
  overlay_image: "/images/header_image.png"
