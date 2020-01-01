@@ -88,11 +88,11 @@ defaults:
   # _posts
 
 # Site Author
-author: Puneet Gupta
-  name: Puneet Gupta
+author: "Puneet Gupta"
+  name: "Puneet Gupta"
   picture:
-  email: samparkpuneet@gmail.com
-  twitter: _puneetkg
+  email: "samparkpuneet@gmail.com"
+  twitter: "_puneetkg"
   links:
     - title:
       url:
