@@ -19,10 +19,10 @@ Knows how to solve 3x3, 4x4, 5x5 rubik's cube - planning to learn to solve them 
 
 Wanted to be a football player or an Astronaut when he grew up. - still believes he is a child who has a lot to learn
 
-A born and bred "Bhopali"
+A born and bred "Bhopali" - google it if you dont know what it means
 
 Believes joining [Flipkart](fttps://flipkart.com),An Indian e-commerce behemoth, was one of the best decisions that he took. -changed his life completely
 
-Authoritarian when looked at but sweet when conversed with.
+Authoritarian by looks but sweet by nature
 
 ...just another guy passing by...
