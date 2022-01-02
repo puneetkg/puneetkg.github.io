@@ -6,7 +6,9 @@ header:
   overlay_image: "/images/titanic.png"
 excerpt: "Machine Learning, Data Science, Binary Classification, Kaggle"
 mathjax: true
+author: "Puneet Gupta"
+category: article
 ---
 
 
-Check this pots out
+This is my first article... Check it out
