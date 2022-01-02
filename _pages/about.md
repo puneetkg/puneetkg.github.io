@@ -7,9 +7,9 @@ header:
   overlay_image: "/images/podcast.jpeg"
 ---
 
-Puneet is a data scientist. He likes to create things from scratch and work with data tell stories & ponder on Why things happen the way they happen. He likes to build model and stuff.
+Puneet is a Problem solver, he is all about data. He likes to create things from scratch and works with data tell stories & ponder on Why things happen the way they do.
 
-An Engineer by choice. - Learnt the value of practicals over theoretical knowledge
+An Engineer by choice. - Learnt the value of practical over theoretical knowledge
 
 Loves to play instruments, sing and create music even if it is a [spoof song](https://soundcloud.com/sanjay-garg-84029219/acha-kaam-aayega)
 
@@ -25,4 +25,4 @@ Believes joining [Flipkart](fttps://flipkart.com),An Indian e-commerce behemoth,
 
 Authoritarian by looks but sweet by nature
 
-... A Dot on the Blue Dot in the Universe...
+... A Blip on the Blue Dot we call Earth in the Universe...
