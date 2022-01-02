@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "All Projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 header:

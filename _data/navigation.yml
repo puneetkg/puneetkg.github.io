@@ -6,7 +6,8 @@ main:
   #   url: /rants/
   - title: "Projects"
     url: /projects/
-  - title: "Summaries"
+
+  - title: "Articles"
     url: /articles/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
