@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Projects"
+title: "All Projects"
 permalink: /projects/
 author_profile: true
 header:
  overlay_image: "/images/header_image.png"
 ---
 
-{% for post in site.posts %}
+{% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
