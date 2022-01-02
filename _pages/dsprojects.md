@@ -1,7 +1,7 @@
 ---
-layout: archive
-permalink: /projects/
+layout: single
 title: "Projects"
+permalink: /projects/
 author_profile: true
 header:
  overlay_image: "/images/header_image.png"

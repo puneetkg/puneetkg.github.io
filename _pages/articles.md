@@ -1,12 +1,12 @@
 ---
 layout: single
-permalink: /articles/
 title: "Articles"
+permalink: /articles/
 author_profile: true
 header:
  overlay_image: "/images/learning.jpg"
 ---
 
-{% for post in site.rants %}
+{% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}

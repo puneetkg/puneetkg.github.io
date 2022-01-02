@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "about"
+title: "About"
 permalink: /about/
 author_profile: true
 header:
   overlay_image: "/images/podcast.jpeg"
 ---
 
-Puneet is a Problem solver, he is all about data. He likes to create things from scratch and works with data tell stories & ponder on Why things happen the way they do.
+Puneet is a Problem solver, he is all about data. He likes to create things from scratch, works with data tell stories & ponder on Why things happen the way they do.
 
 An Engineer by choice. - Learnt the value of practical over theoretical knowledge
 
