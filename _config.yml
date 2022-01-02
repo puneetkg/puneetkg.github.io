@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Puneet Gupta"
 title_separator          : "-"
-subtitle                 : "...Data Science...Observations...Stories...etc..." # site tagline that appears below site title in masthead
+subtitle                 : "...Problem Solving...Data Science...Stories...etc..." # site tagline that appears below site title in masthead
 name                     : "Puneet Gupta"
-description              : "...Data Science...Observations...Stories...etc..."
+description              : "...Problem Solving...Data Science...Stories...etc..."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -154,7 +154,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/_p.u.n.e.e.t/"
+      url: "https://www.instagram.com/_puneet.g/"
 
 
 # Reading Files

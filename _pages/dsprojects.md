@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "ML Projects"
+title: "Projects"
 author_profile: true
 header:
  overlay_image: "/images/header_image.png"

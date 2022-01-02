@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /rants/
-title: "Random Rants and Observations"
+permalink: /articles/
+title: "Articles"
 author_profile: true
 header:
  overlay_image: "/images/learning.jpg"
