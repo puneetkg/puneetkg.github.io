@@ -4,15 +4,17 @@ main:
     url: /about/
   # - title: "Rants"
   #   url: /rants/
+  - title: "Daily blog"
+    url: /blog/
+
   - title: "Projects"
     url: /projects/
 
-  - title: "Articles"
-    url: /articles/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Articles"
+    url: /articles/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
