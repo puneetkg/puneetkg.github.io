@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Articles"
-permalink: /articles/
+permalink: /blog/
 author_profile: true
 header:
  overlay_image: "/images/Articles.jpg"

@@ -11,7 +11,8 @@ category: blog
 ---
 
 
-well you already know why the first blogpost is coming on Jan 1st... NEW YEAR GOALS!
+Well you already know why the first blogpost is coming on Jan 1st... NEW YEAR GOALS!
 
+Happy New Year
 
 ~P

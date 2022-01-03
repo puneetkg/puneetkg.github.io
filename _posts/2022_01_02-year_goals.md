@@ -1,10 +1,10 @@
 ---
-title: "Hi, Hello, Namaskar!!"
-date: 2022-01-01
+title: "Reflection"
+date: 2022-01-02
 tags: [Blog, daily journal]
 header:
-  overlay_image: "/images/Doors_2022_01_01.jpg"
-excerpt: "Welcome to my world"
+  overlay_image: "/images/2022_01_02_thinking.jpeg"
+excerpt: "2022 Goals"
 mathjax: true
 author: "Puneet Gupta"
 category: blog
@@ -21,6 +21,6 @@ As I start 2021, I have made up my mind to work upon myself irrespective of the 
 > Knowledge - reading books and taking courses to constantly improve myself
 > Friendships - Spend more time with close friends and meet new people, ~50 new people in 2022
 
-What do you think, is it too much to do?
+What do you think, am i taking too much on?
 
 ~P
