@@ -1,6 +1,5 @@
 ---
-layout: single
-<!--change this to archive when we put posts -->
+layout: archive
 title: "Articles"
 permalink: /articles/
 author_profile: true
@@ -11,9 +10,9 @@ header:
 
 
 ## Coming Soon!!
-<!-- {% for post in site.posts %}
+{% for post in site.posts %}
 {% if post.category =='article' %}
 
   {% include archive-single.html %}
 {% endif %}
-{% endfor %} -->
+{% endfor %}
