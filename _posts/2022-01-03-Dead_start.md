@@ -1,10 +1,10 @@
 ---
-title: "False Start"
+title: "Couldn't keep the promise i made to myself"
 date: 2022-01-03
 tags: [Blog, daily journal]
 header:
   image: "/images/2022-01-03-joanna-nix-unsplash.jpg"
-excerpt: "2022 Goals"
+excerpt: "When you fell of the wagon"
 mathjax: true
 author: "Puneet Gupta"
 category: blog
