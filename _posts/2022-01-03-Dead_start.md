@@ -12,11 +12,21 @@ category: blog
 
 It is a bad day today, spent majority of my time binging on youtube. A James Clear post mentioned, every decision you take is a vote to what kind of a person you become in the long term.
 
-<image of the James clear post>
 
-Does that mean if i somehow fall off the wagon i.e. ow do you break the chain of bad habits that consume your day and valuable time.
+![James Clear, you are collection of your actions](/images/2022-01-03-jamesclear.png "James Clear: You are collection of your actions")
 
-Shift in your mindset is a gradual process. You need to give yourself time to make the change and not judge yourself and a small hiccup, because a small hiccup one day doesn't mean that you will not be able to achieve in the long run. Focus on showing up everyday, if for some reason, any reason, couldnt wak up early, boss shouted on you, had a fight with a friend, or even as simple as today didn't feel like it, Acknowledge it and move on, show up the next day and  
+present [here](https://www.instagram.com/p/CYRhXfiLX84/?utm_source=ig_web_copy_link)
+
+<!-- ![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo") -->
+
+what it means is that all you are is the weighted average of the kind of decisions you taken in your life. in life the kind of results/mindset you see is a lag metric created by the kind of decisions you have taken historically.
+
+<gif of a weighted average explanation>
+
+Once you internalise this, no exercise in a day will not have any huge impact on the results at the end of the year. Hence, don't beat yourself up over the split milk. People usually overestimate what they can do in a week and grossly underestimate what they can achieve in a year.
+
+Shift in your mindset is a gradual process. It is a game of consistency. You need to give yourself time to make the change and not judge yourself for a small hiccup. This slight doesn't have any impact in the long run. You are the
+Focus on showing up everyday, if for some reason, any reason, couldn't wake up early, boss shouted on you, had a fight with a friend, or even as simple as today didn't feel like it, Acknowledge it and move on, show up the next day and
 
 What has been your kryptonite you are dealing with?
 
