@@ -25,9 +25,13 @@ what it means is that all you are is the weighted average of the kind of decisio
 
 Once you internalise this, no exercise in a day will not have any huge impact on the results at the end of the year. Hence, don't beat yourself up over the split milk. People usually overestimate what they can do in a week and grossly underestimate what they can achieve in a year.
 
-Shift in your mindset is a gradual process. It is a game of consistency. You need to give yourself time to make the change and not judge yourself for a small hiccup. This slight doesn't have any impact in the long run. You are the
+Mindset shift is a gradual process. It is a game of consistency. You need to give yourself time to make the change and not judge yourself for any small hiccup/s. Do not obsess over small losses, instead focus on how you can not make them the next day.
+
+<2 growth graphs>
+
 Focus on showing up everyday, if for some reason, any reason, couldn't wake up early, boss shouted on you, had a fight with a friend, or even as simple as today didn't feel like it, Acknowledge it and move on, show up the next day and
 
-What has been your kryptonite you are dealing with?
+What kryptonite have you been dealing with?
+
 
 ~P
