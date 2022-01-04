@@ -25,8 +25,6 @@ Now if you look closely, that 1 day slip doesn't really impact the long term res
 
 Mindset shift is a gradual process. It is a game of consistency. You need to give yourself time to make the change and not judge yourself for any small hiccup/s. Do not obsess over small losses, instead focus on how to small wins next day and then the next day and then the day after that. Focus on showing up everyday
 
-
 What kryptonite have you been dealing with?
-
 
 ~P
