@@ -10,13 +10,15 @@ author: "Puneet Gupta"
 category: blog
 ---
 
-It was a bad day today, spent majority of my time binging on youtube. I was feeling horrible after wasting the complete day when i came along a James Clear post that mentioned, "every decision you take is a vote for the type of person you wish to become". This sank my heart as I had taken the worst action of binging on random cat videos the whole day (well not actually cat videos but you get the drift)
+It was a bad day today, spent majority of my time binging on Social Media.
+
+I was feeling horrible after wasting the complete day when i came along a James Clear post that mentioned, "every decision you take is a vote for the type of person you wish to become". This sank my heart as I took the worst decision earlier of binging on random cat videos the whole day (well not actually cat videos but you catch the drift)
 
 ![James Clear, you are collection of your actions](/images/2022-01-03-jamesclear.png "James Clear: You are collection of your actions")
 
 Visit his post [here.](https://www.instagram.com/p/CYRhXfiLX84/?utm_source=ig_web_copy_link)
 
-While going to bed i thought about it a little more and then realised the true meaning of the post. The keyword is 'Actions', plural. a Single action doesn't define who you are.  What it means is that you will become the weighted average of the kind of decisions you taken in your life. in life the kind of results/mindset you see is a lag metric created by the kind of decisions you have taken historically.
+While going to bed i thought about it a little more and then realised the true meaning of the post. The keyword is **'ActionS'**, plural. a Single action doesn't define who you are. It takes consistent actions to absorb them as ones Modus operandi. What it means is you become the weighted average of all/any decisions you take. Analytically speaking, In life the kind of results/mindset you see is a lag metric created by the kind of decisions you have taken historically.
 
 ![The Slip Day, No Progress!](/images/2022-02-03-slip_day.jpg "The Slip Day, No Progress!")
 ![Grand Scheme of Things](/images/2022-02-03-grandscheme.jpg "Grand Scheme of Things")
