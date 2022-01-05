@@ -14,7 +14,7 @@ Sooooooo many tasks all with deadlines of yesterday. What do you do when you hav
 
 Well, you know you are in a soup, we lost focus and we are now in a position that we didn't want to be in. While this is not good, crawling out of this is necessary for your personal and mental growth. Do this step by step  takes a positive mindset and awareness of yourself.
 
-1. <mark style="background-color: yellow; opacity:0.3">Acknowledge</mark> that you are in a soup and it is okay. It is not the end of the world
+1. <mark style="background-color: lightyellow; opacity:0.3">Acknowledge</mark> that you are in a soup and it is okay. It is not the end of the world
 2. Take a <mark style="background-color: yellow; opacity:0.4">60 second break</mark>, close your and take deep breathes, put you hands on your face and eyes and swipe away
 3. <mark style="background-color: yellow; opacity:0.5">List down everything</mark> that needs to be done anywhere you feel like, piece of paper, word document, google keep anywhere is fine
 4. Make sure everything personal/professional that you have to finish is on that list
