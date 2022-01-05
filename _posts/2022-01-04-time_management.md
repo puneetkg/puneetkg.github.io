@@ -14,15 +14,15 @@ Sooooooo many tasks all with deadlines of yesterday. What do you do when you hav
 
 Well, you know you are in a soup, we lost focus and we are now in a position that we didn't want to be in. While this is not good, crawling out of this is necessary for your personal and mental growth. Do this step by step  takes a positive mindset and awareness of yourself.
 
-1. <mark style="background-color: lightyellow; opacity:0.3">Acknowledge</mark> that you are in a soup and it is okay. It is not the end of the world
-2. Take a <mark style="background-color: yellow; opacity:0.4">60 second break</mark>, close your and take deep breathes, put you hands on your face and eyes and swipe away
+1. <mark style="background-color: yellow; opacity:0.5">Acknowledge</mark> that you are in a soup and it is okay. It is not the end of the world
+2. Take a <mark style="background-color: yellow; opacity:0.5">60 second break</mark>, close your and take deep breathes, put you hands on your face and eyes and swipe away
 3. <mark style="background-color: yellow; opacity:0.5">List down everything</mark> that needs to be done anywhere you feel like, piece of paper, word document, google keep anywhere is fine
 4. Make sure everything personal/professional that you have to finish is on that list
-5. <mark style="background-color: yellow; opacity:0.6">Mark 3 urgent and important tasks</mark> that you have to personally finish
-6. <mark>Pick the simplest one</mark>, that requires shortest time. Get those small wins to achieve the momentum you need
-7. <mark>Time bound each one</mark>. Once you finish, take a 5 min break, do something that is not related to your tasks, reset your brain.
-8. <mark>Close those tasks</mark> like a boss and rinse repeat for the other tasks the other day
-9. <mark>Reflect</mark> on why you were in that situation, what can you change/do so that you are never in that position ever again.
+5. <mark style="background-color: yellow; opacity:0.5">Mark 3 urgent and important tasks</mark> that you have to personally finish
+6. <<mark style="background-color: yellow; opacity:0.5">Pick the simplest one</mark>, that requires shortest time. Get those small wins to achieve the momentum you need
+7. <mark style="background-color: yellow; opacity:0.5">Time bound each task</mark>. Once you finish, take a 5 min break, do something that is not related to your tasks, reset your brain.
+8. <mark style="background-color: yellow; opacity:0.5">Close those tasks</mark> like a boss and rinse repeat for the other tasks the other day
+9. <mark style="background-color: yellow; opacity:0.5">Reflect</mark> on why you were in that situation, what can you change/do so that you are never in that position ever again.
 
 Bonus Tip: But if you can not boil them down to 3 things.
 - Try to postpone the fourth item on your list by talking to folks, explain your reasons and hope for the best.
