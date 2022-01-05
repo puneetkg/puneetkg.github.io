@@ -36,7 +36,7 @@ This is what i do every-time i feel overwhelmed and it has worked for my 9 out o
 
 More material for your reference:
 
-[Mel Gibson's way](https://www.youtube.com/watch?v=8VKoPSkEN7o&ab_channel=MelRobbins) <br />
+[Mel Robbins's method](https://www.youtube.com/watch?v=8VKoPSkEN7o&ab_channel=MelRobbins) <br />
 [The Eisenhower Matrix](https://todoist.com/productivity-methods/eisenhower-matrix)
 
 What do you do when you are overwhelmed with tasks?
