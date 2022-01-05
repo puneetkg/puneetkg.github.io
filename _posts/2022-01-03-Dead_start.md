@@ -20,8 +20,8 @@ Visit his post [here.](https://www.instagram.com/p/CYRhXfiLX84/?utm_source=ig_we
 
 While going to bed i thought about it a little more and then realised the true meaning of the post. The keyword is **'ActionS'**, plural. a Single action doesn't define who you are. It takes consistent actions to absorb them as ones Modus operandi. What it means is you become the weighted average of all/any decisions you take. Analytically speaking, In life the kind of results/mindset you see is a lag metric created by the kind of decisions you have taken historically.
 
-![The Slip Day, No Progress!](/images/2022-02-03-slip_day.jpg "The Slip Day, No Progress!")
-![Grand Scheme of Things](/images/2022-02-03-grandscheme.jpg "Grand Scheme of Things")
+![The Slip Day, No Progress!](/images/2022-01-03-slip_day.jpg "The Slip Day, No Progress!")
+![Grand Scheme of Things](/images/2022-01-03-grand_scheme.png "Grand Scheme of Things")
 
 Now if you look closely, that 1 day slip doesn't really impact the long term results. Once you internalise this you start to look at things from a 16K ft view and not what i can achieve tomorrow. Hence, don't beat yourself up over the split milk. It is okay to miss that 1 day of workout or that 1 cheat meal or that 1 extra piece of cake as long as you get back on the wagon, you will be fine in the long run. People usually overestimate what they can do in a week and grossly underestimate what they can achieve in a year.
 
