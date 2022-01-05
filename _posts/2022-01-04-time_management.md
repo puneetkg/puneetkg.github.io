@@ -14,7 +14,7 @@ Sooooooo many tasks all with deadlines of yesterday. What do you do when you hav
 
 Well, you know you are in a soup, we lost focus and we are now in a position that we didn't want to be in. While this is not good, crawling out of this is necessary for your personal and mental growth. Do this step by step  takes a positive mindset and awareness of yourself.
 
-1. <mark>Acknowledge</mark> that you are in a soup and it is okay. It is not the end of the world
+1. <mark style="background-color: yellow; opacity:0.7">Acknowledge</mark> that you are in a soup and it is okay. It is not the end of the world
 2. Take a <mark>60 second break</mark>, close your and take deep breathes, put you hands on your face and eyes and swipe away
 3. <mark>List down everything</mark> that needs to be done anywhere you feel like, piece of paper, word document, google keep anywhere is fine
 4. Make sure everything personal/professional that you have to finish is on that list
@@ -30,7 +30,7 @@ But what if you can not boil them down to 3 things.
 - For the rest 1% make peace with yourself that you tried everything in your power to solve all the things and it didn't work out.
 
 Remember:
-> "a faster way to do many things is to only do <mark>**one thing**</mark> at a time"
+> "a faster way to do many things is to only do **one thing** at a time"
 
 This is what i do every-time i feel overwhelmed and it has worked for my 9 out of 10 times. Every other time i get to learn how to modify my system.
 
