@@ -3,7 +3,7 @@ title: "Too many tasks to complete"
 date: 2022-01-04
 tags: [Blog, daily journal]
 header:
-  overlay_image: "/images/2022-01-04-todolist.jpg"
+  image: "/images/2022-01-04-todolist.jpg"
 excerpt: "What to do when you get overwhelmed by a lot of things on your plate?"
 mathjax: true
 author: "Puneet Gupta"
@@ -20,8 +20,9 @@ Well, you know you are in a soup, we lost focus and we are now in a position tha
 4. Make sure everything personal/professional that you have to finish is on that list
 5. Mark 3 urgent and important tasks that you have to personally finish
 6. Pick the one that requires the least amount of time to finish. Get those small wins to achieve the momentum you need
-7. Close those tasks like a boss and rinse repeat for the other tasks the other day
-8. Reflect on why you were in that situation, what can you change/do so that you are never in that position ever again.
+7. Time bound each one, one you close, take a 5 min break, do something that is not related to your tasks, reset your brain.
+8. Close those tasks like a boss and rinse repeat for the other tasks the other day
+9. Reflect on why you were in that situation, what can you change/do so that you are never in that position ever again.
 
 But what if you can not boil them down to 3 things.
 - Try to postpone the fourth item on your list by talking to folks, explain your reasons and hope for the best.
@@ -33,6 +34,11 @@ Remember:
 
 This is what i do every-time i feel overwhelmed and it has worked for my 9 out of 10 times. Every other time i get to learn how to modify my system.
 
-What do you do when you are overwhelmed with tasks? 
+More material to reference:
+
+[Mel Gibson's way](https://www.youtube.com/watch?v=8VKoPSkEN7o&ab_channel=MelRobbins)
+[The Eisenhower Matrix](The Eisenhower Matrix — Urgent vs. Important)
+
+What do you do when you are overwhelmed with tasks?
 
 ~P
