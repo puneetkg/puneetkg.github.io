@@ -16,7 +16,7 @@ Oh god how wrong i was!
 
 One incident changed everything. I worked hard and i was selected but i didnt attribute this to luck. and hence i understood how others are getting lucky
 
-Very Recently, I stumbled upon a video by ["Veritasium"](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) *(a sidenote: tremendous channel i have been watching a lot of its videos, you should check them out)*  named "Is Success Luck or Hard Work?", This video does a great simulation of what is more important to be selected as an Astronaut.
+Very Recently, I stumbled upon a video by [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) *(a sidenote: tremendous channel i have been watching a lot of its videos, you should check them out)*  named "Is Success Luck or Hard Work?", This video does a great simulation of what is more important to be selected as an Astronaut.
 
 He generates 2 scores:
 1. Skill Score: For skill, Hard work and Talent out of 100
