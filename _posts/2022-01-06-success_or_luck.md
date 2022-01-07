@@ -3,7 +3,7 @@ title: "Does luck play a role in being successful?"
 date: 2022-01-06
 tags: [Blog, daily journal]
 header:
-  overlay_image: "/images/2022-01-06-katrina-wright-unsplash.jpg"
+  overlay_image: "/images/2022-01-06-belive.png"
 excerpt: "what would you pick hard work or luck to become successful"
 mathjax: true
 author: "Puneet Gupta"
