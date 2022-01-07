@@ -1,10 +1,10 @@
 ---
-title: "Does luck play a role in being successful"
+title: "Does luck play a role in being successful?"
 date: 2022-01-06
 tags: [Blog, daily journal]
 header:
-  overlay_image: "/images/2022-01-06-.jpg"
-excerpt: "what would you pick hard work or luck"
+  overlay_image: "/images/2022-01-06-katrina-wright-unsplash.jpg"
+excerpt: "what would you pick hard work or luck to become successful"
 mathjax: true
 author: "Puneet Gupta"
 category: blog
@@ -13,7 +13,6 @@ category: blog
 Have you ever thought that any success that your competition gets is only due to luck. While any success you get is a culmination of your Hard Work. I certainly used to think that while growing up. I would not understand how they were so good without they being lucky. Which made me look at luck as this magic spell that only a few special ones get, while other mortals merely roam in their shadows. I took to buying lucky charms, anything and everything that would bring luck to me from the little pocket money i got.
 
 Oh god how wrong i was!
-
 
 One incident changed everything. I worked hard and i was selected but i didnt attribute this to luck. and hence i understood how others are getting lucky
 
@@ -30,10 +29,12 @@ This Simulation was run over 1000 times and the users and the results that came 
 >When competition is fierce, talent and skill do not matter, you also need to catch a break.
 
 But, it is a useful delusion to believe that we all are in control of our destiny, since if we don't we are less likely to invest more time in any activityto become better at it.
+
 So What to do if you want to becomes successful in this kind of a world?
 The answer is paradoxical
 
 First: you should believe that your success comes only because of your talent and hard work
+
 Second: Understand that that is not the complete truth. If you end up being successful, you should know that luck played some role for your success.
 
 
