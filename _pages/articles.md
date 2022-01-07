@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Articles"
+title: "Thought Experiments"
 permalink: /articles/
 author_profile: true
 header:
