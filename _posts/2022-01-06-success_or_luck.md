@@ -35,7 +35,7 @@ This brings us back to square one!, if luck is that important factor that 9 out 
 The answer is paradoxical,
 
 1. First, you should believe that your success comes only because of your talent and hard work, Work hard towards your goals & leave no stone unturned.
-2. Once you have done everything under your power to become successful, understand that is not the complete truth. If you end up being successful, you should know that luck played some role for your success.
+2. Second, once you have done everything under your power to become successful, understand that is not the complete truth. If you end up being successful, you should know that luck played some role for your success.
 
 What were the incidents where you felt extraordinarily lucky?
 
