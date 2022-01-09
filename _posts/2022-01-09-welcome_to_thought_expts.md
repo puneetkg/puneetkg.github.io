@@ -31,17 +31,15 @@ Galileo may never have dropped balls from the top of the leaning tower of Pisa, 
 **The Impossible Barber**
 A certain barber is very particular about his work. He shaves every person who does not shave themselves, and no one who does shave themselves. So: does the barber shave himself? It doesn’t take long to see the contradiction: If he does, he can’t; if he doesn’t, he must. Such a barber can’t exist.
 
-An article about Thought Experiments were published in the 'Standford Encyclopedia of Philosophy'. [^1]
-[^1]: [link to the article](https://plato.stanford.edu/entries/thought-experiment/)
+An article about Thought Experiments were published in the 'Standford Encyclopedia of Philosophy', [link to the article](https://plato.stanford.edu/entries/thought-experiment/)
 
 In Modern times, thought experiments have become a great way to express new ideas. In entertainment, especially comics have adopted this to create alternate stories to sustain a flavour of variations while telling stories.
 
 We all know and believe that Superman stays in the city called Metropolis, but what if his ship landed in USSR, What would happen?
 ![Superman](/images/2022-01-09-superman.jpg)
-[Trailer](https://www.youtube.com/watch?v=n0s0FJfyqGk&ab_channel=DC)
+[Trailer](https://www.youtube.com/watch?v=n0s0FJfyqGk&ab_channel=DC) <br />
 This comic explores the changes in the society and other factors and tries to explain a possible reality that might have played out.
 
-So are you ready to take this ride with me? Every weekend i'll share thought experiments that i ponder about over the week. Stay tuned!
-
+So, are you ready to take this ride with me? Every weekend i'll share thought experiments that i ponder about over the week. Stay tuned!
 
 ~P
