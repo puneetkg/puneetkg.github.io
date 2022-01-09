@@ -1,6 +1,6 @@
 ---
 title: "Welcome to thought experiments"
-date: 2022-01-01
+date: 2022-01-09
 tags: [Thought Experiment]
 header:
   overlay_image: "/images/Doors_2022_01_09-bulb.jpg"
@@ -10,7 +10,7 @@ author: "Puneet Gupta"
 category: article
 ---
 
-**Year:2022 Week:1**
+**Published on Year:2022 Week:1**
 
 What are these thought experiments? Do you need any apparatus? Do you need money? Do you need any resources?
 Lets take a look..
