@@ -14,10 +14,10 @@ Have you ever thought that any success that your competition gets is only due to
 
 Oh god! how wrong i was.
 
-While reflecting on what led me to believe that hard work is the only key to success. This one incident that  happened a long time ago popped up. It changed  my mindset forever, <the incident?>
+While reflecting on what led me to believe that hard work is the only key to success. This one incident that  happened a long time ago popped up. It changed  my mindset forever. I was never good at studies, not because i couldn't be but because that didn't interest me, regurgitating whatever you have memorised on a piece of paper without understanding its applications or uses. So year over year my academic scores were not very high and year over year i used to hear about it from my parents. This particular year, i was determined to make my scores cross a certain number. I asked around what my friends were doing to secure good marks, everyone had some sort of a plan/strategy. Some were taking tuitions, while some used to study everyday for a specific period of time. I worked hard all year round and voila, i was able to clear the scores easily.
+Now, mind you, I didn't place First in the class, or even in top ten, not even close, i was above ~75% of the class. But, i achieved what i set to achieve by working hard, that was enough to change my views towards Hard Work and made me realise that if people are getting certain scores it is not because of luck, it is because they have employed strategies to overcome their hurdles, it might be spending focussed on their own or taking help of some tutor. A valuable lesson indeed.
 
-
-sometime back, I stumbled upon a video by [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) *(a sidenote: tremendous channel i have been watching a lot of its videos, you should check them out)* named "Is Success Luck or Hard Work?", which expanded my understanding on a combination of hard work and luck. I particularly like this video because it explains the concept by using data and running a simulation on How Astronauts are picked in real life.
+Sometime back, I stumbled upon a video by [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) *(side note: It is a tremendous channel i have been following, you should check it out)* named "Is Success Luck or Hard Work?", which expanded my understanding on a combination of hard work and luck. I particularly like this video because it explains the concept by using data and running a simulation on How Astronauts are picked in real life.
 
 This is how he does:
 He generates 2 scores:

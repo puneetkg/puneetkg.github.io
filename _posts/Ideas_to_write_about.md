@@ -12,8 +12,6 @@ IDEAS
 
 
 
-
-
 What can you do to become more lucky?
 ~ Leave bread crumbs
 ~ Gratitude
