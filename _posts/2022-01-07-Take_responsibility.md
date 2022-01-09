@@ -3,7 +3,7 @@ title: "How to win?"
 date: 2022-01-07
 tags: [Blog, daily journal]
 header:
-  overlay_image: "/images/2022-01-07-bulb.jpg"
+  overlay_image: "/images/2022-01-07-win.jpg"
 excerpt: "The science behind being lucky"
 mathjax: true
 author: "Puneet Gupta"
