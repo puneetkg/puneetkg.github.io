@@ -43,7 +43,6 @@ Take the ownership and you will see the difference.
 
 ~P
 
-
 <!-- references -->
 <!-- https://www.youtube.com/watch?v=kkP27V-bYOw&ab_channel=TEDxTalks -->
 <!-- https://www.youtube.com/watch?v=AWWFS9y087c&ab_channel=struthless -->
