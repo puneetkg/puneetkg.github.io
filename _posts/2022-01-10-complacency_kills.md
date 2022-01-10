@@ -31,7 +31,7 @@ With such evolution, our brain defaults to the easiest option if not kept in con
 
 Complacency can manifest in 2 major ways
 1. When current success can manifest complacency as 'I have Arrived' which keeps us from recognising we are not growing (*the vision of the future becomes blurry*)
-2. When there has been no success in a long time which discourages us from striving for improvement(*Maybe i'll stop trying, maybe i'll stop*)
+2. When there has been no success in a long time which discourages us from striving for improvement(*Maybe i'll stop trying, Maybe I’ll stop speaking up in meetings. Maybe where I’m at isn’t so bad after all*)
 
 Once recognised, Start by asking yourself a few questions:
 * What could I be doing every day to get better?
