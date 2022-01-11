@@ -38,7 +38,7 @@ Either you are learning, Or you are making a lot of money:
 If you are learning but not getting paid heavily you are optimising for your skillset, not the best place to be since you want the money, but in the long term you can exponentially improve your earning, by leveraging the skillset you have acquired. <br />
 *'Learn for 2 years max then either ask for a raise of, find the place that will allow you to learn as well as earn'*
 
-If you are earning highly but not doing meaningful work. you satisfaction is going in Red, you can either start a side hustle, where you are doing some meaningful work that pulls you out of red. Or take an online course to enhance your skillset. <br />
+If you are earning highly but not doing meaningful work or not learning . you satisfaction is going in Red, you can either start a side hustle, where you are doing some meaningful work that pulls you out of red. Or take an online course to enhance your skillset. <br />
 *'If money is a constraint, start a side hustle or learn new skillsets to improve in the long term'*
 
 `If you are neither earning nor learning` <br />
@@ -49,9 +49,10 @@ If you are earning highly but not doing meaningful work. you satisfaction is goi
 Simply put:
 >Learn, earn or churn!
 
-<br />
-<br />
-Which quadrant are you in?
+Best trajectory to follow:
+First learn, then earn
+
+Which quadrant are you currently in?
 
 ~P
 
