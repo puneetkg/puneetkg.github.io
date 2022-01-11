@@ -28,17 +28,17 @@ Break your job into 2 areas,
 ![Two by two framework!](/images/2022-01-11-2by2.png "Two by two framework")
 ---
 
-`Best Scenario`
+`Best Scenario` <br />
 You are learning; about Business, about customers, communication skills, face time with leadership, getting recognition, doing meaningful work that positively impacts the real world.
 While doing all this you are getting optimally getting paid for it
 
-`Optimise for one for a short term`
+`Optimise for one for a short term` <br />
 Either you are learning, Or you are making a lot of money:
 
-If you are learning but not getting paid heavily you are optimising for your skillset, not the best place to be since you want the money, but in the long term you can exponentially improve your earning, by leveraging the skillset you have acquired.
+If you are learning but not getting paid heavily you are optimising for your skillset, not the best place to be since you want the money, but in the long term you can exponentially improve your earning, by leveraging the skillset you have acquired. <br />
 *'Learn for 2 years max then either ask for a raise of, find the place that will allow you to learn as well as earn'*
 
-If you are earning highly but not doing meaningful work. you satisfaction is going in Red, you can either start a side hustle, where you are doing some meaningful work that pulls you out of red. Or take an online course to enhance your skillset.
+If you are earning highly but not doing meaningful work. you satisfaction is going in Red, you can either start a side hustle, where you are doing some meaningful work that pulls you out of red. Or take an online course to enhance your skillset. <br />
 *'If money is a constraint, start a side hustle or learn new skillsets to improve in the long term'*
 
 `If you are neither earning nor learning` <br />
