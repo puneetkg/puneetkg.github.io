@@ -27,7 +27,7 @@ From childhood we are conditioned to compare ourselves to our friends. Parents c
 
 The Whole `Sharmaji ka beta` scenario is so engrained in us since childhood our default is to compare ourselves with whoever is in front of us.
 
-Let's not delve deeper into this else i will not be able to post this, since this post will never end. Okay so we all know we shouldn't compare. To not do that.. try these suggestions out.
+Let's not delve deeper into this else i will not be able to post this, since this post will never end. Okay, so we all know we shouldn't compare. To not do that.. try these suggestions out.
 
 
 1. Understand, where did they start?
@@ -42,6 +42,8 @@ Remember:
 * There is one thing that you’re better at than other people: being you. This is the only game you can really win.
 * Compare yourself to who you were yesterday.
 
+<br />
+<br />
 what is your worst comparison story?
 
 ~P
