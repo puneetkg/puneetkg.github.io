@@ -1,4 +1,4 @@
-IDEAS
+Stories for IDEAS
 ~ How you became the captain of the school football team
 ~ How you became the house captain in school
 ~ What does it mean to be a leader?

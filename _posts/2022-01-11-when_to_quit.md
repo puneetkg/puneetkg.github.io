@@ -1,5 +1,5 @@
 ---
-title: "Should you Quit?"
+title: "Should you Quit your job?"
 date: 2022-01-11
 tags: [Blog, daily journal]
 header:
