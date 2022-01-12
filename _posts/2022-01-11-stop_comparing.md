@@ -35,6 +35,12 @@ Let's not delve deeper into this else i will not be able to post this, since thi
 3. Stop “shoulding” yourself. - “I should have this by now” or “I should have come further.” But statements like that just keep us focused on what we’re lacking.
 4. Have a better discussion with yourself - Instead of telling yourself you’re not competent enough to do the work you want to do, tell yourself you’re brave enough to try something new. Instead of blaming yourself for mistakes in the past, remind yourself that you did the best you could and that you’ve learned from it.
 
+Remember:
+* The most important things in life come from the inside, not the outside.
+* Comparing yourself to others is a recipe for unhappiness.
+* You can be anything but you can’t be everything.
+* There is one thing that you’re better at than other people: being you. This is the only game you can really win.
+* Compare yourself to who you were yesterday.
 
 what is your worst comparison story?
 
@@ -43,3 +49,4 @@ what is your worst comparison story?
 <!-- https://tinybuddha.com/blog/13-things-instead-comparing-others/ -->
 <!-- https://www.forbes.com/sites/carolinecastrillon/2020/11/24/how-to-stop-comparing-yourself-to-others/?sh=3e2aa0f76473 -->
 <!-- https://www.ramseysolutions.com/personal-growth/how-to-stop-comparing-yourself-to-others -->
+<!-- https://fs.blog/comparing-yourself-others/ -->
