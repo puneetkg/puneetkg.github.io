@@ -11,7 +11,7 @@ category: blog
 ---
 
 '3 Idiots' had this famous dialogue that Indians related so much
->""Dost fail ho jaye toh dukh hota hai, lekin dost first aa jaye toh zyada dukh hota hai..." "
+>"Dost fail ho jaye toh dukh hota hai, lekin dost first aa jaye toh zyada dukh hota hai..."
 
 I have been happy with the progress that i have seen over the time. This one day i met a school friend after a very long time. We started discussing life, work and we both were trying to nudge towards the one question that everyone wants to know when they meet a friend.
 "Are you happy?" - No
