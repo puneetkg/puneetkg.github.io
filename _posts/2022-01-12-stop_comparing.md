@@ -10,15 +10,15 @@ author: "Puneet Gupta"
 category: blog
 ---
 
-'3 Idiots' had this famous dialogue that Indians related so much
+['3 Idiots'](https://www.imdb.com/title/tt1187043/) had this famous dialogue that Indians related so much
 >"Dost fail ho jaye toh dukh hota hai, lekin dost first aa jaye toh zyada dukh hota hai..."
 
-I have been happy with the progress that i have seen over the time. This one day i met a school friend after a very long time. We started discussing life, work and we both were trying to nudge towards the one question that everyone wants to know when they meet a friend.
-"Are you happy?" - No
-"Are you doing fine in life?" - No
-"How have you been over these years?" - No
+I have been happy with the progress that i have seen over the time. This one day i met a school friend after a very long time. We started discussing life, work and we both were trying to nudge towards the one question that everyone wants to know when they meet a friend. <br />
+"Are you happy?" - No <br />
+"Are you doing fine in life?" - No <br />
+"How have you been over these years?" - No <br />
 
-It is:
+It is: <br />
 "Kitna kama raha hai aajkal?"
 
 Well, he was making a lot more than me. Late that day, this sense of "what the hell am i doing with my life" creeped in. It took a lot of time for me to calibrate my mind on why am i comparing? that too only on a single metric?
