@@ -3,7 +3,7 @@ title: "Why do we compare ourselves?"
 date: 2022-01-12
 tags: [Blog, daily journal]
 header:
-  overlay_image: "/images/2022-01-12-.jpg"
+  overlay_image: "/images/2022-01-12-compare.jpg"
 excerpt: "Practical ways to stop comparing to others"
 mathjax: true
 author: "Puneet Gupta"
