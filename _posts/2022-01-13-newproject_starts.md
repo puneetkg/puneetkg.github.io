@@ -21,10 +21,10 @@ How to pitch your project?
 
 ***slightly nuanced but extremely important for the outcome***
 
-So what was that my manager told me?
+So, what was that my manager told me? <br />
 Just before my project pitch to the Product team, my manager told me focus on how their problem is getting solved by our solution, not on what is the solution, how we have applied the best tech, latest method, finest algorithm. That stuck with me and has always guided my pitches. Now, you can use this too.   
 
-I'll share my learning progress in the projects section and my mental space in daily blogs do check them out. This will be a great input for folks who are planning to begin learning a new area from scratch in data science & build expertise.
+I'll share my learning progress in the projects section and my mental space handling Office work, Side Project, Coursera courses and Personal Growth in daily blogs do check them out. This will be a great input for folks who are planning to begin learning a new area from scratch in data science & build expertise while managing stuff.
 
 The project delves into 'Computer Vision' and its applications
 Since, i am currently a Noob, i'll be working on this from scratch to build the framework
