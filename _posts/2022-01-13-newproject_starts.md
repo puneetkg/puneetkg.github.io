@@ -3,7 +3,7 @@ title: "Take action!"
 date: 2022-01-12
 tags: [Blog, daily journal]
 header:
-  overlay_image: "/images/2022-01-13-running.jpg"
+  overlay_image: "/images/2022-01-13-some_clean.jpg"
 excerpt: "Build a side project to improve your fast track your learning"
 mathjax: true
 author: "Puneet Gupta"
