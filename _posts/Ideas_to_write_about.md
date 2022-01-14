@@ -9,7 +9,7 @@ Stories for IDEAS
 ~ how to have more self respect
 ~ how to be more confident?
 
-
+~ how i lost a hackathon, just coz i didn't think about the presentation
 
 
 What can you do to become more lucky?
