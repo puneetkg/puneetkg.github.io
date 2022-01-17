@@ -38,5 +38,5 @@ Practice Focuses Your Energy on the Process
 
 ~P
 
-
+<!-- https://managementhelp.org/blogs/personal-and-professional-coaching/2012/02/02/basic-guidelines-to-reframing-to-seeing-things-differently/ -->
 <!-- https://jamesclear.com/learning-vs-practicing -->
