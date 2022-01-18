@@ -11,17 +11,17 @@ category: blog
 ---
 
 
-### Every problem is an opportunity in disguise
+# Every problem is an opportunity in disguise
 
 Human minds are designed to seek a path of least resistance. They always try to push the problems and consider  always look to solve As we grow old, we face situations that have seen a lot of things. No solutions lead to frustration. Why can you not reach the solution? or why was this problem given to me? <br />
 Solutions to the problems
 
-##### Pivot your focus
+### Pivot your focus
 The mind is a powerful tool, but it sometimes creates obstacles for us. Some obstacles surface due to **cognitive biases**. One these biases is called the "frame effect". This states that the way you frame a problem has a powerful impact on what you will do next. Do you see the cup as half full or half empty?
 Every problem is an opportunity challenge and grow oneself.
 
-Acknowledging, is half the battle won!
-Positive reframing involves thinking about a negative or challenging situation in a more positive way. This could involve thinking about a benefit or upside to a negative situation that you had not considered. Alternatively, it can involve identifying a lesson to be learned from a difficult situation.  Finding something to be grateful about in a challenging situation is a type of positive reappraisal.
+Acknowledging, is half the battle won! <br />
+Positive reframing involves thinking about a negative or challenging situation in a more positive way. This could involve thinking about a benefit or upside to a negative situation that you had not considered. Alternatively, it can involve identifying a lesson to be learned from a difficult situation.  Finding something to be grateful about in a challenging situation is a type of positive reappraisal.<br />
 -Gist from an article by Stress & Development Lab, Harvard <br />
 
 Take the problem as a challenge and you start to think of ways to solve it instead of dreading the day you were given the problem.
