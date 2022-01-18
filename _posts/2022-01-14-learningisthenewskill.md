@@ -30,7 +30,7 @@ Learning something new can actually be a waste of time if your goal is to make p
 Watching youtube videos might improve knowledge. But to improve skill practice is the only option. You need to experience the process of building a skill consistently.
 
 James Clear mentions this in one of his articles
-![Active Practice vs Passive Learning](/images/2022-01-14-learning.png "Active Practice vs Passive Learning")
+![Active Practice vs Passive Learning](/images/2022-01-14-james.png "Active Practice vs Passive Learning")
 
 Passive learning creates knowledge. Active practice creates skill.
 Practice Focuses Your Energy on the Process

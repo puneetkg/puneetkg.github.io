@@ -7,7 +7,7 @@ header:
   overlay_image: "/images/podcast.jpeg"
 ---
 
-Puneet is curious person and a Problem solver, he is all about data. He likes to create things from scratch, works with data tell stories & ponder on Why things happen the way they do.
+Puneet is a Problem solver, curious in nature. He likes to create things from scratch, works with data to tell stories & ponder on Why things happen the way they do. A student of life.
 
 An Engineer by choice. - Learnt the value of practical over theoretical knowledge
 
