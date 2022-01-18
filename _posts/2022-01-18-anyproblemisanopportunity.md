@@ -4,6 +4,7 @@ date: 2022-01-18
 tags: [Blog, daily journal]
 header:
   overlay_image: "/images/2022-01-18-problem.jpg"
+  teaser: "/images/2022-01-18-problem.jpg"
 excerpt: "A problem is only a problem if you choose to view it as a problem"
 mathjax: true
 author: "Puneet Gupta"
