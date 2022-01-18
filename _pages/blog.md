@@ -1,6 +1,7 @@
 ---
-layout: archive
 title: "Blog"
+layout: collection
+entries_layout: grid
 permalink: /blog/
 author_profile: true
 header:
