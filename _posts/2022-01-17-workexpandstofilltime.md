@@ -14,6 +14,28 @@ During the pandemic, I believe everyone has been dealing with it is different wa
 
 After weeks working like this, i got burnout, i didn't want to work, i didn't want to do anything else. All i wanted to do was either sleep or watch something that kept me away from thinking about work. I realised that this is not sustainable and the work that i enjoyed the most has become the most painful part of my existence. While casually talking to a friend, he mentioned that why don't you consider this as a problem and think about how will you solve it. This gave me hope and i jumped on this problem to solve it.
 
+How to solve any problem:
+DMAIC
+
+1. Define the Problem: Work life mix not present
+2. Measure the current baseline: spending 4 hours on an average after office hours
+3. Analyze to identify the root cause: <br />
+Spending 4 hours on an average after office hours <br />
+Why? <br />
+Work didnt finish during the day <br />
+Why? <br />
+Didn't spend time during office hours on the problem statement <br />
+Why?<br />
+Kept getting distracted by other things on my mind <br />
+Why?<br />
+Spent a large portion of the day watching youtube which sparked ideas and working on personal stuff
+
+and we have lift off!!!
+
+4. Improve, take action to solve the root cause: No youtube during office hours, take a daily goal of finishing 3 most important things
+5. Control the future processes in order to not degrade back: Accomplish daily goals for 2 weeks then move onto weekly goals for 2 weeks then move onto monthly goals for 2 months (build slowly but steadily)
+
+
 
 Things i realised:
 * Parkinson's law:

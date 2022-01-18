@@ -12,9 +12,19 @@ Stories for IDEAS
 ~ how i lost a hackathon, just coz i didn't think about the presentation
 
 
+
+
+
+
 What can you do to become more lucky?
 ~ Leave bread crumbs
 ~ Gratitude
 ~ Take Action - try anyway
 ~ Reciprocity
 ~ Practice as if you have no luck
+
+
+
+
+to incorporate in oneself
+https://conorneill.com/2016/05/02/the-complete-guide-to-personal-habits-158-positive-reflections-in-7-categories-to-be-the-best-version-of-yourself/
