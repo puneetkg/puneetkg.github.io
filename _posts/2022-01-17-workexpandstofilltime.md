@@ -25,21 +25,21 @@ Inculcate the habit of doing a proper effort estimate, allocate 1.25 times the a
 
 * Life is not only about work, i was over optimising for work by taking out my time out from other important things, which in the long run will be extremely detrimental to my growth as a person. The Jar experiment is a great reminder to prioritise time for important things in life.
 
-**The Jar Experiment**
-A psychology professor plans to do a thought experiment with his students. He brings is an empty Glass Jar fills all the tennis balls it can take and asks the students
-Professor: Students is the Jar full?
+**The Jar Experiment** <br />
+A psychology professor plans to do a thought experiment with his students. He brings is an empty Glass Jar fills all the tennis balls it can take and asks the students <br />
+Professor: Students is the Jar full? <br />
 Students: Yes professor.
 
-The professor takes out glass marbles and fills that them in the glass jar
-P: Is the jar now full?
+The professor takes out glass marbles and fills that them in the glass jar <br />
+P: Is the jar now full? <br />
 S: Yes Professor
 
-The professor picks up glass beads and fills it in the glass
-P: Is the jar full now?
+The professor picks up glass beads and fills it in the glass <br />
+P: Is the jar full now? <br />
 S: Yes, it is full.
 
-The professor picks up sands and fill it to the brim
-P: How about now?
+The professor picks up sands and fill it to the brim <br />
+P: How about now? <br />
 S: Yes professor, nothing can go in the jar now
 
 The professor smiles and pours water into the jar, the sand absorbs all the water. The students have no words after watching this.
@@ -47,7 +47,7 @@ The professor smiles and pours water into the jar, the sand absorbs all the wate
 The professor then mentions the learning from this.
 >Our life is like an empty glass jar, tennis balls are the most important things for us like relantionships, work, hobbies. glass marbles are the things which are not as important and so on. If you do not keep the important parts in your jar first, all the not so importnat things like sand, beads will take their place and once they take it.. you will not have enough room to fit tennis balls in a glass full of sand and water.
 
-So remember:
+Remember:<br />
 Always keep time for important things is life first, other things will find their space around these important things.
 
 What did you do when you felt stuck like this ?
