@@ -1,6 +1,6 @@
 ---
 title: "Take action!"
-date: 2022-01-12
+date: 2022-01-13
 tags: [Blog, daily journal]
 header:
   overlay_image: "/images/2022-01-13-some_clean.jpg"
