@@ -1,10 +1,10 @@
 ---
-title: "How to look at any problem"
+title: "The problem with problems"
 date: 2022-01-18
 tags: [Blog, daily journal]
 header:
   overlay_image: "/images/2022-01-18-problem.jpg"
-excerpt: "A problem is only a problem if you choose to view it as a problem. It is an opportunity."
+excerpt: "A problem is only a problem if you choose to view it as a problem"
 mathjax: true
 author: "Puneet Gupta"
 category: blog
