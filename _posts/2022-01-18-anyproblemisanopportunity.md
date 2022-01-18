@@ -22,7 +22,9 @@ Every problem is an opportunity challenge and grow oneself.
 
 Acknowledging, is half the battle won!
 Positive reframing involves thinking about a negative or challenging situation in a more positive way. This could involve thinking about a benefit or upside to a negative situation that you had not considered. Alternatively, it can involve identifying a lesson to be learned from a difficult situation.  Finding something to be grateful about in a challenging situation is a type of positive reappraisal.
--Gist from an article by Stress & Development Lab, Harvard
+-Gist from an article by Stress & Development Lab, Harvard <br />
+
+Take the problem as a challenge and you start to think of ways to solve it instead of dreading the day you were given the problem.
 
 A Winner is a risk-taker. If you want to gain something, you need to take a risk. They know that nothing in life comes without a price and they are willing to pay that price. They constantly embark on paths unknown to achieve extra-ordinary results.
 
