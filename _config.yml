@@ -300,6 +300,5 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: collection
-      entries_layout: grid
+      layout: single
       author_profile: true
