@@ -1,8 +1,7 @@
 ---
-layout: collection
+layout: archive
 title: Blog
 entries_layout: grid
-
 permalink: /blog/
 collection: portfolio
 author_profile: true
