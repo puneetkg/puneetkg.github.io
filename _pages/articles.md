@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Thought Experiments"
+title: "Case Studies"
 permalink: /articles/
 author_profile: true
 header:

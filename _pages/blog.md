@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Blog"
+title: Portfolio
 entries_layout: grid
 classes: wide
 permalink: /blog/
