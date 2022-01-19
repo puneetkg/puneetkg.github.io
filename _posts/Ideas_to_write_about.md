@@ -15,6 +15,10 @@ Stories for IDEAS
 ~ the flow state, meet your
 
 
+~ To do anything that is good you have to do stuff that sucks! get comfortable with that fact and you will achieve a lot
+
+
+
 
 What can you do to become more lucky?
 ~ Leave bread crumbs

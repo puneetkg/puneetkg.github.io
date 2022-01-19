@@ -10,7 +10,7 @@ author: "Puneet Gupta"
 category: blog
 ---
 
-During the pandemic, I believe everyone has been dealing with it is different ways. For me, lines between Work and life blurred. This didn't happen in a day. It creeped up slowly, it changed 1 day at a time, quite often there were projects which were to be completed and i stretched post office hours to complete them on time. This meant that i slept late woke up groggy and started my day late. This eventually became a vicious cycle. I remember thinking for any new deliverable that "I'll finish it, i have nights as well", soon I started pushing my work during the day. Recently i picked a super critical project where, the timelines were already stringent and twice i slept at 4am. the days post this were horrific, i couldn't concentrate on neither my work nor my life.
+During the pandemic, I believe everyone has been dealing with it is different ways. For me, lines between Work and life blurred. This didn't happen in a day. It creeped up slowly, it changed 1 day at a time, quite often there were projects which were to be completed and i stretched post office hours to complete them on time. This meant that i slept late woke up groggy and started my day late. This eventually became a vicious cycle. I remember thinking for any new deliverable that "I'll finish it, i have nights as well", soon I started pushing my work during the day. Recently i picked a super critical project where, the timelines were already stringent and twice i slept at 4am. I was able to finish that days taks but the consequent days were horrific hell, i couldn't concentrate on neither my work nor my life, or on anything else.
 
 After weeks working like this, i got burnout, i didn't want to work, i didn't want to do anything else. All i wanted to do was either sleep or watch something that kept me away from thinking about work. I realised that this is not sustainable and the work that i enjoyed the most has become the most painful part of my existence. While casually talking to a friend, he mentioned that why don't you consider this as a problem and think about how will you solve it. This gave me hope and i jumped on this problem to solve it.
 
@@ -18,7 +18,7 @@ How to solve any problem:
 DMAIC
 
 1. Define the Problem: Work life mix not present
-2. Measure the current baseline: spending 4 hours on an average after office hours
+2. Measure the current baseline: spending ~4-5 hours on an average after office hours
 3. Analyze to identify the root cause: <br />
 Spending 4 hours on an average after office hours <br />
 Why? <br />
@@ -43,7 +43,7 @@ Things i realised:
 
 ![Parkinson's law](/images/2022-01-17-parkinson.png "Parkinson's law")
 
-Inculcate the habit of doing a proper effort estimate, allocate 1.25 times the amount you think you need and finish your work to account for any hiccups and complete it during that time.
+Inculcate the habit of doing a proper effort estimate, allocate 2 times the amount you think you need to account for any hiccups and complete it during that time (usually we overestimate what we can achieve in a day and underestimate what we can achieve in a year) and finish your work
 
 * Life is not only about work, i was over optimising for work by taking out my time out from other important things, which in the long run will be extremely detrimental to my growth as a person. The Jar experiment is a great reminder to prioritise time for important things in life.
 
