@@ -46,6 +46,7 @@ So, to eat an elephant what you should do is
 **Relevant**: Is relevant to the larger vision, improves the business(if a personal project, you!) in some form
 **Time**: State the deadline for each of the task, a Specific timeframe
 
+Remember
 ### “The secret of getting ahead is getting started. The secret of getting started is breaking your complex overwhelming tasks into small manageable tasks, and starting on the first one.”
 
 ~P
