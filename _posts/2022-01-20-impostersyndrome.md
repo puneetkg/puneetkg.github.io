@@ -1,6 +1,6 @@
 ---
 title: "Why do we have an imposter syndrome?"
-date: 2022-01-19
+date: 2022-01-20
 tags: [Blog, daily journal]
 header:
   overlay_image: "/images/2022-01-20-imposter.jpg"
