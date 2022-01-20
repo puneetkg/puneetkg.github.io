@@ -17,7 +17,7 @@ category: blog
 **What is Imposter syndrome?**<br />
 >The feeling of inadequacy in spite of evident success.
 
-What this means is , we feel like at any point in time we will be called out that we no one knows how we were able to reach this level, we don't deserve this. We are not good enough, in spite of clear evidences supporting that we have achieved a lot of things.
+What this means is, we feel like at any point in time we will be called out that we no one knows how we were able to reach this level, we don't deserve this. We are not good enough, in spite of clear evidences supporting that we have achieved a lot of things.
 
 Based on a Harvard article, ~70% people in the world tackle with imposter syndrome at some point in their life. So if we are feeling inadequate, take some solace that nearly everyone has faced or is facing what we are facing. Even highly successful folks like Maya Angelou, Mike Myers have openly mentioned they feeling like an imposter.
 
@@ -34,9 +34,9 @@ Here comes the cliff, from your point of view.. While we are happy that we have 
 ### Short term solve:
 Have a goal for what "good enough" would look like to you. If we don’t yet feel qualified enough to give a talk to your industry on a subject, what would make we feel qualified? What do we need to learn or experience to make we feel that way? Imposter syndrome may well strike when we reach that level too but at least we have something objective to measure it against.
 
-### Long term reliable solve with tangible evidences
+### Long term solve (with reliable solve with tangible evidences)
 
-Answer these questions with all honesty.
+A the time you are feeling like an imposter answer these questions with all honesty.
 
 1. What do you feel?
 2. What need isn't being met?
@@ -60,12 +60,13 @@ This works because..
 * You behavior will change because you want to fill out the reasons at the end of the day (This might feel like cheating, but that is just an initial phase)
 * You are acknowledging that your thinking is not fixed. It can change and it can be a good place to be in.
 
-Note:
-This Post is heavily influenced and inspired by Campbell Walker AKA "Struthless" Please do go see the video, He makes a banger videos that hit the spot.
+*Note:
+This Post is heavily influenced and inspired by Campbell Walker AKA "Struthless" Please check him out. He makes a banger videos that hit the spot*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VHkfEoc-3mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<br />
+<br />
 What were the scenarios where you experienced an imposter syndrome and how did you cope with it?
 
 ~P
