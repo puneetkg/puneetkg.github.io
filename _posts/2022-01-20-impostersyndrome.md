@@ -34,9 +34,9 @@ Here comes the cliff, from your point of view.. While we are happy that we have 
 ### Short term solve:
 Have a goal for what "good enough" would look like to you. If we don’t yet feel qualified enough to give a talk to your industry on a subject, what would make we feel qualified? What do we need to learn or experience to make we feel that way? Imposter syndrome may well strike when we reach that level too but at least we have something objective to measure it against.
 
-### Long term solve (with reliable solve with tangible evidences)
+### Long term solve (with reliable & tangible evidences)
 
-A the time you are feeling like an imposter answer these questions with all honesty.
+When you feel like an imposter answer these questions with all honesty
 
 1. What do you feel?
 2. What need isn't being met?
@@ -46,14 +46,15 @@ A the time you are feeling like an imposter answer these questions with all hone
 
 Once we have answers for all the 5 questions. We will have some understanding of why is it that we are feeling the way we are feeling. Now, the fifth question is important, that is the deep down rooted problem that we need to solve.
 
-Say, you come up with "I don't deserve success"
+Let's take my example, I have come up with "I don't deserve success"
 
-Here you take a notebook, everyday at the start of the day, you write the opposite of that belief and add a because in the end, that tunes your brain to find instances for the statement. Then go about doing your daily job. Your brain will constantly be searching for the reason of that 'because'.
+Here you take a notebook and everyday at the start of the day, you write the opposite of that belief and add a because in the end, this tunes your brain to find instances for the statement. Then you go about doing your daily job. Your brain will constantly be searching for the reason of that 'because'.
 
 "I deserve success because..."
 
-One you end the day, come back to the notebook/journal and fill it.. daily for a year. At the end of the year you will have a minimum of 365 evidences why you are <the thing that you added you are not>
+Once you end the day, come back to the notebook/journal and fill it the reasons that you found that day.. daily for a year. At the end of the year you will have a minimum of 365 evidences why you are <the thing that you added you are not>, in my case "successful".
 
+### Why does this work?
 
 This works because..
 * You are re teaching your brain to think in a positive way rather than negative
@@ -61,7 +62,7 @@ This works because..
 * You are acknowledging that your thinking is not fixed. It can change and it can be a good place to be in.
 
 *Note:
-This Post is heavily influenced and inspired by Campbell Walker AKA "Struthless" Please check him out. He makes a banger videos that hit the spot*
+This post is heavily influenced and inspired by Campbell Walker AKA "Struthless". Please check him out. He makes a banger videos that hit not your brain but your mind*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VHkfEoc-3mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
