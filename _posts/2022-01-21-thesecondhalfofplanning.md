@@ -27,6 +27,7 @@ Covey and others teach us to think in terms of abundance, and avoid a scarcity m
 Acknowledge that you are stuck with a problem. Try to find solutions rather than dwelling on the problem.
 Start with these questions
 <br />
+<br />
 <span style="font-family:Papyrus; font-size:0.75em;"> *What happened? … why do you think that happened? … and how does that make you feel and act, as a result?*</span>
 
 Once you have the answers, you have some structure to what you are dealing with. Once you have some shape and form of the problem, ask deeper questions like
