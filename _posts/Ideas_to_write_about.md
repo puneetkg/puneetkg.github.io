@@ -27,8 +27,21 @@ What can you do to become more lucky?
 ~ Reciprocity
 ~ Practice as if you have no luck
 
+Principles I live by:
+~ Until you ask the answer is no
+~ Take decision from the standpoint of awareness
+~
 
+<Recently added> How you do anything is how you do everything
 
 
 to incorporate in oneself
 https://conorneill.com/2016/05/02/the-complete-guide-to-personal-habits-158-positive-reflections-in-7-categories-to-be-the-best-version-of-yourself/
+
+
+
+
+kya kaam hai
+kya product hai
+reporting ka kya scene hai
+meri team hogi ya nahi 
