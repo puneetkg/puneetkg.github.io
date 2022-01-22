@@ -1,5 +1,5 @@
 ---
-title: "You need the mindset!"
+title: "We need a mindset shift!"
 date: 2022-01-21
 tags: [Blog, daily journal]
 header:
@@ -17,27 +17,27 @@ Planning, taking notes, strategy, action plan, scheme, blueprint, tactic etc are
 
 To follow through the plan you have created, the first thing you need is is Discipline, this is key.
 
-**Abundance Mindset**
+**Abundance Mindset** <br />
 Throughout our lives we have been taught that everything is scarce, there is only one prize, there is only one winner in life. Growth mindset teaches us to avoid the scarce mentality. Start with the assumption that there is more space and more resources than what you might see or know of. You need to find a way to create more opportunities. You can expand solutions to be inclusive of your ideas as well as others.
 
 Adopt an Abundance Mindset Over a Scarcity Mindset
 Covey and others teach us to think in terms of abundance, and avoid a scarcity mentality.   This means starting with the assumption that there’s more space and more resources than what you might see by default.  You find a way to create more opportunities.   You can expand solutions to be inclusive of your ideas as well as others.  Rather than fight turf wars, you create a larger space.  Rather than fight for resources, you find more.  When you operate from a scarcity mentality, the problem is you get defensive or offensive and find yourself competing unnecessarily.  While you can spend your energy competing, you can also spend it creating more alternatives and expanding opportunities and finding abundance.
 
-**Positive Mindset**
+**Positive Mindset** <br />
 Acknowledge that you are stuck with a problem. Try to find solutions rather than dwelling on the problem.
-Start with these questions
+Start with these questions <br />
 *What happened? … why do you think that happened? … and how does that make you feel and act, as a result?*
 
 Once you have the answers, you have some structure to what you are dealing with. Once you have some shape and form of the problem, ask deeper questions like
 
-1. Evidence – Ask yourself, “”What’s the evidence you have for and against the belief?”
-2. Alternatives – Ask yourself, “Is there another way to look at the adversity?”
-3. Implications – Ask yourself, “What’s the impact?”, assuming that your negative explanation is right. Check whether you are making mountains out of molehills.
-4. Usefulness – Ask yourself, “Will thinking about the problem now, do any good?” If now is not the time, then either do something physically distracting, schedule a time to think things over, or write the negative thoughts down and deal with them when you’re ready.
+1. Evidence – Ask, "What’s the evidence you have for and against the belief?”
+2. Alternatives – Ask, “Is there another way to look at the adversity?”
+3. Implications – Ask, “What’s the impact?”, assuming that your negative explanation is right. Check whether you are making mountains out of molehills.
+4. Usefulness – Ask, “Will thinking about the problem now, do any good?” If now is not the time, then either do something physically distracting, schedule a time to think things over, or write the negative thoughts down and deal with them when you’re ready.
 
 This creates a solution path in the mind and instead of spiralling down the issue you get some sense of how to deal with it.
 
-**Growth Mindset**
+**Growth Mindset** <br />
 This mindset helps us change your outlook towards attributing results of people's innate ability. We feel that people either have the talent or not. Its either a 1 or a 0. Growth mindset teaches us that we can always learn a new skill by right training and enough practice. There ar e always 1% o the people who are talented and they use that to progress themselves, but rest 99% folks push through by right training and deliberate practice
 In order to realign your mindset, try following these steps
 
