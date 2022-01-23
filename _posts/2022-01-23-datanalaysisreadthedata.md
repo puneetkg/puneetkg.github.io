@@ -46,7 +46,7 @@ with open('log.txt', 'r') as in_file:
 
 ### Method2: Using pandas library
 
-####Reading '.csv'
+#### Reading '.csv'
 
 ```
 import pandas as pd
@@ -54,7 +54,7 @@ import pandas as pd
 df = pd.read_csv('FILE_PATH.csv')
 ```
 
-####Reading excel file
+#### Reading excel file
 
 Using pandas to read excel
 ```
