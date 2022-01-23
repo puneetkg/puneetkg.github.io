@@ -14,7 +14,7 @@ category: project
 # Data Analysis in Python
 Reading data is the first step that is extremely important to understand. There are multiple way of reading data in python but we will explore 2 ways of reading dataset and converting it into a dataframe.
 
-## What is a Dataframe?
+# What is a Dataframe?
 
 a Dataframe is a tabular representation of data in rows and columns.
 
@@ -28,9 +28,9 @@ Eg: Consider an office where the employees' data like joining date, salary, empl
 
 Once you have this data, to analyse this data you need to be able to read the data correctly and then place it in a data-frame to be able to use it.
 
-## How to read data in Python
+# How to read data in Python
 
-### Method1: Using csv library
+## Method1: Using csv library
 
 ```
 import csv
@@ -44,9 +44,9 @@ with open('log.txt', 'r') as in_file:
         writer.writerows(lines)
 ```
 
-### Method2: Using pandas library
+## Method2: Using pandas library
 
-#### Reading '.csv'
+### Reading '.csv'
 
 ```
 import pandas as pd
@@ -54,7 +54,7 @@ import pandas as pd
 df = pd.read_csv('FILE_PATH.csv')
 ```
 
-#### Reading excel file
+### Reading excel file
 
 Using pandas to read excel
 ```
@@ -81,7 +81,7 @@ sheet = wb.sheet_by_index(0)
 print(sheet.cell_value(0, 0))
 ```
 
-#### When data is too huge or reduce memory usage
+### When data is too huge or reduce memory usage
 
 1. You can read only a limited dataset by providing value to the chunksize parameter provided in read_csv function.
 
