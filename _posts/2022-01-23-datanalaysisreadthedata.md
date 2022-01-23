@@ -30,7 +30,7 @@ Once you have this data, to analyse this data you need to be able to read the da
 
 # How to read data in Python
 
-## Method1: Using csv library
+## Method1: Using 'csv' library
 
 ```
 import csv
@@ -44,7 +44,7 @@ with open('log.txt', 'r') as in_file:
         writer.writerows(lines)
 ```
 
-## Method2: Using pandas library
+## Method2: Using 'pandas' library
 
 ### Reading '.csv'
 
@@ -83,17 +83,14 @@ print(sheet.cell_value(0, 0))
 
 ### When data is too huge or reduce memory usage
 
-1. You can read only a limited dataset by providing value to the chunksize parameter provided in read_csv function.
+a. You can read only a limited dataset by providing value to the 'chunksize' parameter provided in 'read_csv' function.
 
 ```
 import pandas as pd
 
 df = pd.read_csv('FILE_PATH.csv', chunksize = 1)
 df = pd.DataFrame(df)
-```
-Once you have read all the chunks, merge them together to use the dataset. Note that **df_chunk** is not a dataframe but an object for further operation in the next step.
 
-```
 chunk_list = []  # append each chunk df here
 
 # Each chunk is in df format
@@ -107,10 +104,11 @@ for chunk in df_chunk:
 # concat the list into data-frame
 df_concat = pd.concat(chunk_list)
 ```
+Once you have read all the chunks, merge them together to use the dataset. Note that **df_chunk** is not a data-frame but an object for further operation in the next step
 
 OR
 
-2. You can read first n lines from the dataframe and use them for an initial analysis , by passing value to the 'nrows' parameter
+b. You can read first n lines from the dataframe and use them for an initial analysis , by passing value to the 'nrows' parameter
 
 ```
 import pandas as pd
