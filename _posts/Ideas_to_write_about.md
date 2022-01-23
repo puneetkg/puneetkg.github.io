@@ -18,8 +18,6 @@ Stories for IDEAS
 ~ To do anything that is good you have to do stuff that sucks! get comfortable with that fact and you will achieve a lot
 
 
-
-
 What can you do to become more lucky?
 ~ Leave bread crumbs
 ~ Gratitude
@@ -44,4 +42,4 @@ https://conorneill.com/2016/05/02/the-complete-guide-to-personal-habits-158-posi
 kya kaam hai
 kya product hai
 reporting ka kya scene hai
-meri team hogi ya nahi 
+meri team hogi ya nahi
