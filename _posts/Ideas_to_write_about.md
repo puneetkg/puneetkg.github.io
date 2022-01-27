@@ -33,13 +33,9 @@ Principles I live by:
 <Recently added> How you do anything is how you do everything
 
 
+<IMP> there can only be 2 things either an intent issue or a capability issue
+
+
+
 to incorporate in oneself
 https://conorneill.com/2016/05/02/the-complete-guide-to-personal-habits-158-positive-reflections-in-7-categories-to-be-the-best-version-of-yourself/
-
-
-
-
-kya kaam hai
-kya product hai
-reporting ka kya scene hai
-meri team hogi ya nahi
