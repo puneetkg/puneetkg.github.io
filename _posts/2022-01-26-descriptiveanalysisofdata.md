@@ -5,7 +5,7 @@ tags: [Data preparation, data analysis, pandas, descriptive analysis]
 header:
   overlay_image: "/images/2022-01-23-pandas.jpg"
   teaser: "/images/2022-01-23-pandas.jpg"
-excerpt: "How to rename columns of a dataframe"
+excerpt: "How understand data by descriptive statistics"
 mathjax: true
 author: "Puneet Gupta"
 category: project
@@ -35,7 +35,6 @@ But you can force the function to pull the categorical column as well by passing
 ```
 df.describe(include='all')
 ```
-
 
 Hope this helps.
 

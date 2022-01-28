@@ -1,5 +1,5 @@
 ---
-title: "A question of self confidence"
+title: "Overcoming Hurdles"
 date: 2022-01-26
 tags:
 header:
@@ -26,16 +26,13 @@ Spearhead into all the tasks and give as much time as you require to close,
 
 >>Cons:
 - Unstructured learnings
-
-
-
-
 - Time consuming
 - Taxing on other areas of your life.
 
 Not an optimal solution
 
-As you grow you realise the most valuable thing you have is time, you need to deploy time extremely carefully
+As you grow you realise the most valuable thing you have is time, you need to deploy time extremely carefully, If effective time management is mastered, you can master anything in life. When it comes to your time, the early you understand that you need to behave like 'Gollum' from Lord of the rings the better you are in the long term.
+
 <my precious image>
 
 In order
