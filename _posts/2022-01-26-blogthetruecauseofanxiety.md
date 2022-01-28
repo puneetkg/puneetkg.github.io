@@ -1,6 +1,6 @@
 ---
 title: "A question of self confidence"
-date: 2022-01-25
+date: 2022-01-26
 tags:
 header:
   overlay_image: "/images/2022-01-26-.jpg"
@@ -10,8 +10,6 @@ mathjax: true
 author: "Puneet Gupta"
 category: blog
 ---
-STAR
-
 
 # how to overcome a new hurdle
 
@@ -28,14 +26,24 @@ Spearhead into all the tasks and give as much time as you require to close,
 
 >>Cons:
 - Unstructured learnings
+
+
+
+
 - Time consuming
 - Taxing on other areas of your life.
 
-
 Not an optimal solution
 
+As you grow you realise the most valuable thing you have is time, you need to deploy time extremely carefully
+<my precious image>
 
+In order
 <post on reddit> wait a minute i am not dumb i am just panicking
+
+
+
+Apply the pareto principle, and identify the top 20%
 
 Practice is the way to beat that anxiety, mastery is the way to feel confident. It the time you don't have mastery you will always be looking for folks
 What frameworks have you used to overcome the unsurmountable area.

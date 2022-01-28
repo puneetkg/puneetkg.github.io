@@ -1,5 +1,5 @@
 ---
-title: "1. Data Analysis: 1.2 "
+title: "1. Data Analysis: 1.4 Descriptive Analytics"
 date: 2022-01-26
 tags: [Data preparation, data analysis, pandas, descriptive analysis]
 header:
@@ -15,7 +15,7 @@ category: project
 
 It is extremely important for any analyst to understand the data provided to him, this makes it easier to think of scenarios and better capture the insights hidden in the data. In order to do that
 
-Desciptive statistics of the dataset gives you an instant summary of the dataset. Try it out
+Descriptive statistics of the dataset gives you an instant summary of the dataset. Try it out
 
 ```
 df.describe()
@@ -28,7 +28,6 @@ It gives you the values like
 - standard deviation
 - 25th percentile
 - 75% percentile
-
 
 This function by default ignores all the categorical columns
 
