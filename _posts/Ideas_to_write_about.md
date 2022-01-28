@@ -39,3 +39,9 @@ Principles I live by:
 
 to incorporate in oneself
 https://conorneill.com/2016/05/02/the-complete-guide-to-personal-habits-158-positive-reflections-in-7-categories-to-be-the-best-version-of-yourself/
+
+
+
+
+~Practice is the way to beat that anxiety, mastery is the way to feel confident. It the time you don't have mastery you will always be looking for folks
+What frameworks have you used to overcome the unsurmountable area.

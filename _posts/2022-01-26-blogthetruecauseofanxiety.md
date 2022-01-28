@@ -1,11 +1,11 @@
 ---
-title: "Overcoming Hurdles"
+title: "Overcoming Mental Hurdles"
 date: 2022-01-26
 tags:
 header:
-  overlay_image: "/images/2022-01-26-.jpg"
-  teaser: "/images/2022-01-26-.jpg"
-excerpt: "What did you "
+  overlay_image: "/images/2022-01-26-hurdles.jpg"
+  teaser: "/images/2022-01-26-Hurdles.jpg"
+excerpt: "Ways to overcome hurdles"
 mathjax: true
 author: "Puneet Gupta"
 category: blog
@@ -17,32 +17,27 @@ I recently moved teams and have been feeling a little overwhelmed by the kind of
 
 This impacted me psychologically pushing me to exhibit imposter syndrome. I wanted to find a way to structurally solve my problem and realised that i was constantly searching for a framework that can be applied to this situation. Unfortunately, i haven't found a framework yet but what helped me was a post on reddit. Over the course of my career, i have solved these situations by allocating more time to these challenges.
 
->Brute Force method:
+>Brute Force method:<br />
 Spearhead into all the tasks and give as much time as you require to close,
 
 >>Pro:
-- Steep learning Curve
-- High chance
-
+- Steep learning Curve but will give results
+- highly satisfying once you overcome the hurdles
 >>Cons:
 - Unstructured learnings
 - Time consuming
 - Taxing on other areas of your life.
 
-Not an optimal solution
+**Not an optimal solution**
 
-As you grow you realise the most valuable thing you have is time, you need to deploy time extremely carefully, If effective time management is mastered, you can master anything in life. When it comes to your time, the early you understand that you need to behave like 'Gollum' from Lord of the rings the better you are in the long term.
+As you grow you realise the most valuable thing you have is time, you need to deploy time extremely carefully, If effective time management is mastered, you can master anything in life. When it comes to your time, the early you understand that you need to behave like the character 'Smegal' from Lord of the rings the better you are in the long term.
+!['Smegal'](/images/2022-01-26-myprecious.gif"Smegal-My precious")
 
-<my precious image>
+While going through reddit i saw this post, and this hit the right spot that transformed my thinking.
+!['Twitter Post'](/images/2022-01-26-redditpost.jpg "The post that the whole world felt")
 
-In order
-<post on reddit> wait a minute i am not dumb i am just panicking
+The self realisation that you are not dumb just because you are not able to solve the current situation is extremely important. This allows you to move from helpless mindset to a problem solving mindset.
 
-
-
-Apply the pareto principle, and identify the top 20%
-
-Practice is the way to beat that anxiety, mastery is the way to feel confident. It the time you don't have mastery you will always be looking for folks
-What frameworks have you used to overcome the unsurmountable area.
+Since i couldn't any framework that can be applied to this situation. I combined 2 models to solve. The Pareto principle in conjunction with the semantic tree approach and it has worked in charms.
 
 ~P
