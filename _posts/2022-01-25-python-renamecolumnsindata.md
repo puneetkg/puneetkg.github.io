@@ -1,5 +1,5 @@
 ---
-title: "1. Data Analysis: 1.3 renaming columns in the dataframe"
+title: "Data Analysis: 1.3 renaming columns in the dataframe"
 date: 2022-01-25
 tags: [Data preparation, data analysis, pandas]
 header:

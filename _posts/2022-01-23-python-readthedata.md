@@ -1,5 +1,5 @@
 ---
-title: "1. Data Analysis: 1.1 Reading data using pandas"
+title: "Data Analysis: 1.1 Reading data using pandas"
 date: 2022-01-23
 tags: [machine learning, data analysis, pandas]
 header:

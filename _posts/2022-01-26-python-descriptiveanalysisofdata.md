@@ -1,5 +1,5 @@
 ---
-title: "1. Data Analysis: 1.4 Descriptive Analytics"
+title: "Data Analysis: 1.4 Descriptive Analytics"
 date: 2022-01-26
 tags: [Data preparation, data analysis, pandas, descriptive analysis]
 header:

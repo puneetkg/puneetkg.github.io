@@ -1,5 +1,5 @@
 ---
-title: "1. Data Analysis: 1.2 filtering a dataframe"
+title: "Data Analysis: 1.2 filtering a dataframe"
 date: 2022-01-24
 tags: [Data preparation, data analysis, pandas]
 header:

@@ -31,7 +31,7 @@ Code:
 df.groupby('ind')['target_col'].size()
 
 # Plotting these values to understand better
-df.groupby('ind')['target_col'].size().plot().bars()
+df.groupby('ind')['target_col'].count().plot().bars()
 ```
 
 **Categorical Analysis**
@@ -44,7 +44,7 @@ df.groupby('categorical_col')['target_col'].size()
 # Plotting these values to understand better
 df.groupby('categorical_col')['target_col'].count().plot().bar()
 ```
-Multiple iterations are required to understand the data better
+Multiple iterations are required to understand the data better, these can be combined with [data filter]() discussed earlier in order to gain insights from selected data.
 
 **Correlation between features**
 ```
