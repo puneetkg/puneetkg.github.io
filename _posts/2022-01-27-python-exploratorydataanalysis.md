@@ -1,5 +1,5 @@
 ---
-title: "1. Data Analysis: 1.5 Exploratory Data Analysis"
+title: "Data Analysis: 1.5 Exploratory Data Analysis"
 date: 2022-01-27
 tags: [Data preparation, data analysis, pandas, numpy, Exploratory Analysis, EDA]
 header:
