@@ -80,7 +80,7 @@ advert_report = sv.analyze(df)
 # Display the report
 advert_report.show_html('Advertising.html')
 ```
-This generates an HTML file that can be seen on any browser 
+This generates an HTML file that can be seen on any browser
 
 Hope this helps.
 
