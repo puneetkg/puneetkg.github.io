@@ -1,5 +1,5 @@
 ---
-title: "Maximise your output by using Pareto"
+title: "Maximise your output by using Pareto principle"
 date: 2022-01-27
 tags:
 header:

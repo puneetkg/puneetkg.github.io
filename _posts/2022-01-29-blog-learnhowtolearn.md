@@ -10,3 +10,5 @@ mathjax: true
 author: "Puneet Gupta"
 category: blog
 ---
+
+# How to get out of a rut

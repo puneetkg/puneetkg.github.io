@@ -22,7 +22,9 @@ I found this framework used by Elon Musk, that can help learn any new area as qu
 Elon Musk:
 >“One bit of advice: it is important to view knowledge as sort of a semantic tree — make sure you understand the fundamental principles, i.e. the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to.”
 
-According to Musk, you must start with the fundamentals first like a trunk of the tree, then start building the branches of the trees and then finally reach the leaves. If you start the other way round you will not have the clarity to solve the leaves or will constantly be speculating
+According to Musk, you must start with the fundamentals first like a trunk of the tree, ensure that you have the best possible grasp of the fundamentals then start building the branches of the trees and then finally reach the leaves. If started the other way, there is a lot of unidentified dump of information that is difficult to track and make sense of.
+
+
 
 How do you scale up in any new field or area?
 
