@@ -24,8 +24,6 @@ Elon Musk:
 
 According to Musk, you must start with the fundamentals first like a trunk of the tree, ensure that you have the best possible grasp of the fundamentals then start building the branches of the trees and then finally reach the leaves. If started the other way, there is a lot of unidentified dump of information that is difficult to track and make sense of.
 
-
-
 How do you scale up in any new field or area?
 
 ~P
