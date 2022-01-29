@@ -16,6 +16,7 @@ With the every changing world that is constantly moving faster, learning somethi
 
 I was recently struggling in scaling up in my new team as i could figure out where to start. This led me find some framework that allows to learn any subject as soon as possible.
 
+
 I found this framework used by Elon Musk, that can help learn any new area as quickly as possible.
 
 Elon Musk:
