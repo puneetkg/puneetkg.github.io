@@ -1,6 +1,6 @@
 ---
 title: "Pandemic created a new thing-rut"
-date: 2022-01-00
+date: 2022-01-2-9
 tags:[learning, mindset, improvement]
 header:
   overlay_image: "/images/2022-01-29-brain.jpg"
