@@ -5,7 +5,7 @@ tags: [learning, mindset, improvement, pandemic]
 header:
   overlay_image: "/images/2022-01-29-brain.jpg"
   teaser: "/images/2022-01-29-brain.png"
-excerpt: "How "
+excerpt: "How to get out of a rut"
 mathjax: true
 author: "Puneet Gupta"
 category: blog
