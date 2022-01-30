@@ -23,6 +23,6 @@ A born and bred "Bhopali" - google it if you don't know what it means
 
 Believes joining [Flipkart](https://flipkart.com),An Indian e-commerce behemoth, was one of the best decisions that he took. -changed his life completely
 
-Authoritarian by looks but sweet by nature
+Authoritarian by looks but sweet in nature
 
 ... A Blip on the Blue Dot we call Earth in the Universe...
