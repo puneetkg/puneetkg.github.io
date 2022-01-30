@@ -15,7 +15,7 @@ category: blog
 
 The pandemic years have completely changed the way we think live. This has also exposed new challenges which people have been dealing with in silos. A lot of people dealing with survival while here are some people dealing with only getting stuck in a routine. That in itself is something that
 
-<span style="font-family:Papyrus; font-size:1.5em;"> **5 Steps to get out of a rut**</span>
+<span style="font-family:Helvetica; font-size:2em;"> **5 Steps to get out of a rut**</span>
 
 ## Step1: Forgive yourself
 
