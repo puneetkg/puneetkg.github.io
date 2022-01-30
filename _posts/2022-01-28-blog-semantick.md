@@ -1,7 +1,7 @@
 ---
 title: "Scale up quickly in any field"
 date: 2022-01-28
-tags:[learning, mindset, improvement, semantic tree]
+tags: [learning, mindset, improvement, semantic tree]
 header:
   overlay_image: "/images/2022-01-29-brain.jpg"
 excerpt: "How quickly understand any new field and scale up faster"
