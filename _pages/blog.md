@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Blog
+title: Mindset
 entries_layout: grid
 permalink: /blog/
 collection: portfolio

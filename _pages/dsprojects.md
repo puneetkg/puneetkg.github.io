@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Data Analysis"
 permalink: /projects/
 author_profile: true
 header:

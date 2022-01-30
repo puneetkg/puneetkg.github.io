@@ -7,10 +7,10 @@ main:
     url: /about/
   # - title: "Rants"
   #   url: /rants/
-  - title: "Blog"
+  - title: "Mindset"
     url: /blog/
 
-  - title: "Projects"
+  - title: "Data Analysis"
     url: /projects/
 
 
