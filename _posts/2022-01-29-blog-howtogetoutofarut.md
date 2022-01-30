@@ -1,7 +1,7 @@
 ---
 title: "Pandemic created a new thing called rut"
 date: 2022-01-29
-tags: [learning, mindset, improvement, pandemic, ]
+tags: [learning, mindset, improvement, pandemic]
 header:
   overlay_image: "/images/2022-01-29-brain.jpg"
   teaser: "/images/2022-01-29-brain.png"
