@@ -17,12 +17,10 @@ It is extremely important to strategise and plan your moves. But once all the st
 
 Even if you have all the strategy and you can't execute the strategy is of no use.
 
-In today's day and age there is nothing Perfect anymore. <br />
-'*Practice makes perfect*' <br />
-is outdated. <br />
-**'Practice makes Improve'**
-
-Is the new motto. There is always something you can improve upon.
+In today's day and age there is nothing "Perfect" anymore. <br />
+'*Practice makes perfect*' is outdated. <br />
+**'Practice makes Improve'** is the new motto.<br />
+There is always something you can improve upon.
 
 What area did you improve last year?
 
