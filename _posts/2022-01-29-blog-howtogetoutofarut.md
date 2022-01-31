@@ -1,5 +1,5 @@
 ---
-title: "Pandemic created a new thing called rut"
+title: "The Pandemic Rut"
 date: 2022-01-29
 tags: [learning, mindset, improvement, pandemic]
 header:
