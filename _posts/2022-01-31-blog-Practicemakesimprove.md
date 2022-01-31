@@ -19,7 +19,7 @@ Even if you have all the strategy and you can't execute the strategy is of no us
 
 In today's day and age there is nothing "Perfect" anymore. <br />
 '*Practice makes perfect*' is outdated. <br />
-**'Practice makes Improve'** is the new motto.<br />
+**'Practice makes Improvement'** is the new motto.<br />
 There is always something you can improve upon.
 
 What area did you improve last year?
