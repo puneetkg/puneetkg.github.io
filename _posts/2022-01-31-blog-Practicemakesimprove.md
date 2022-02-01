@@ -1,5 +1,5 @@
 ---
-title: "Practice makes ~~Perfect~~ Improve"
+title: "Practice makes ~~Perfect~~ Improvement"
 date: 2022-01-31
 tags: [mindset, improvement, practice]
 header:
@@ -11,7 +11,7 @@ author: "Puneet Gupta"
 category: blog
 ---
 
-# Practice makes ~~Perfect~~ Improve!
+# Practice makes ~~Perfect~~ Improvement!
 
 It is extremely important to strategise and plan your moves. But once all the strategies are complete and made sense of it becomes extremely important to execute them as well. Execution or practice is required to complete the task or hone your craft.
 
