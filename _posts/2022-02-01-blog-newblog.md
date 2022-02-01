@@ -28,9 +28,10 @@ According to Shaq, the Formula is:
 
 ![Shaq's investment plan](/images/2022-02-01-shaq.png "Shaq's investment plan for youngsters")
 
-Break your investment into 3 pieces. Whatever you earn in per month cut that in half, one half you keep it aside, invest it for the long term, save it for the rainy day. the other half break it in half again. You get 25%, put aside as well into investments with a 5-10 year horizon for any major events in your life; marriage, kids, vacation trip etc. <br />
-With this you are left with 25%, this 25% is your play money, do whatever you want with this in the present. Eat out, buy cars, buy bikes, have fun. This 25% is what you live off. This will help create wealth in the long run.
+Break your investment into **3 pieces**. Whatever you earn in per month cut that in half, **one half you keep it aside**, invest it for the long term, save it for the rainy day. the other half divide into 2 pieces again. The first 25%, put it into investments with a 5-10 year horizon for any major events in your life; marriage, kids, vacation trip etc. <br />
+With this you are left with the final 25%, this 25% is your '**Play Money**', do whatever you want with this in the present. Pay rent, Eat out, buy cars, buy bikes or have fun. This 25% is what you live off of.
 
+This will help create wealth in the long term.
 
 How do you take care of your money situation?
 
