@@ -1,7 +1,7 @@
 ---
 title: "Delayed Gratification is the key"
 date: 2022-02-02
-tags: [mindset, money management, delayed gratification, investment]
+tags: [mindset, delayed gratification, success factors]
 header:
   overlay_image: "/images/2022-02-02-marsh.jpg"
   teaser: "/images/2022-02-02-marsh.jpg"
