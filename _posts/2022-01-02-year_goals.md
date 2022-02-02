@@ -4,6 +4,7 @@ date: 2022-01-02
 tags: [Blog, daily journal]
 header:
   overlay_image: "/images/2022-01-02_thinking_display.png"
+  teaser: "/images/2022-01-02_thinking_display.png"
 excerpt: "2022 Goals"
 mathjax: true
 author: "Puneet Gupta"

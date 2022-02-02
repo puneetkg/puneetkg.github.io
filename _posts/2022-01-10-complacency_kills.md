@@ -4,6 +4,7 @@ date: 2022-01-10
 tags: [Blog, daily journal]
 header:
   overlay_image: "/images/2022-01-10-communicate-man-not-hearing.jpg"
+  teaser: "/images/2022-01-10-communicate-man-not-hearing.jpg"
 excerpt: "How to understand if you have become complacent and how to come out of it"
 mathjax: true
 author: "Puneet Gupta"

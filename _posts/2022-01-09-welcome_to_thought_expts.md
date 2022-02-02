@@ -4,6 +4,7 @@ date: 2022-01-09
 tags: [Thought Experiment]
 header:
   overlay_image: "/images/Doors_2022_01_09-bulb.jpg"
+  teaser: "/images/Doors_2022_01_09-bulb.jpg"
 excerpt: "What does thought experiments actually mean?"
 mathjax: true
 author: "Puneet Gupta"

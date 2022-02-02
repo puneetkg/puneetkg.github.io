@@ -4,6 +4,7 @@ date: 2022-01-11
 tags: [Blog, daily journal]
 header:
   overlay_image: "/images/2022-01-11-quit_image.jpg"
+  teaser: "/images/2022-01-11-quit_image.jpg"
 excerpt: "How to better take decisions"
 mathjax: true
 author: "Puneet Gupta"

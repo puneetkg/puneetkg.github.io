@@ -4,6 +4,7 @@ date: 2022-01-28
 tags: [learning, mindset, improvement, semantic tree]
 header:
   overlay_image: "/images/2022-01-28-digital_tree.png"
+  teaser: "/images/2022-01-28-digital_tree.png"
 excerpt: "How quickly understand any new field and scale up faster"
 mathjax: true
 author: "Puneet Gupta"

@@ -4,6 +4,7 @@ date: 2022-01-13
 tags: [Blog, daily journal]
 header:
   overlay_image: "/images/2022-01-13-some_clean.jpg"
+  teaser: "/images/2022-01-13-some_clean.jpg"
 excerpt: "Build a side project to improve your fast track your learning"
 mathjax: true
 author: "Puneet Gupta"

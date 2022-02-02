@@ -4,6 +4,7 @@ date: 2022-01-04
 tags: [Blog, daily journal]
 header:
   overlay_image: "/images/2022-01-04-todolist.jpg"
+  teaser: "/images/2022-01-04-todolist.jpg"
 excerpt: "What to do when you get overwhelmed by a lot of things on your plate?"
 mathjax: true
 author: "Puneet Gupta"

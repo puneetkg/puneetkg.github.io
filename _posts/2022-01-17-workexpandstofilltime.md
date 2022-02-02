@@ -4,6 +4,7 @@ date: 2022-01-17
 tags: [Blog, daily journal]
 header:
   overlay_image: "/images/2022-01-17-clock.jpg"
+  teaser: "/images/2022-01-17-clock.jpg"
 excerpt: "How i experienced Parkinson's law and what to do about it"
 mathjax: true
 author: "Puneet Gupta"

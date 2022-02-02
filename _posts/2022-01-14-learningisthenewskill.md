@@ -4,6 +4,7 @@ date: 2022-01-14
 tags: [Blog, daily journal]
 header:
   overlay_image: "/images/2022-01-14-unsplash.jpg"
+  teaser: "/images/2022-01-14-unsplash.jpg"
 excerpt: "How to inculcate learning as a skill rather than an innate ability"
 mathjax: true
 author: "Puneet Gupta"

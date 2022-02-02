@@ -4,6 +4,7 @@ date: 2022-01-06
 tags: [Blog, daily journal]
 header:
   overlay_image: "/images/2022-01-06-pawn.png"
+  teaser: "/images/2022-01-06-pawn.png"
 excerpt: "what would you pick hard work or luck to become successful"
 mathjax: true
 author: "Puneet Gupta"
