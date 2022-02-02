@@ -14,7 +14,7 @@ category: blog
 # The marshmallow experiment
 
 The researcher told the child that he was going to leave the room and that if the child did not eat the marshmallow, then they would get a second marshmallow. However, if the child decided to eat the first one before the researcher came back, then they would not get a second marshmallow.
-![Marshmallow Experiment](/images/2022-02-02-marshmallow-test.jpg"marshmallow test")
+![Marshmallow Experiment](/images/2022-02-02-marshmallow-test.jpg "marshmallow test")
 
 So the choice was simple: one treat right now or two treats later.
 
