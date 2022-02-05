@@ -39,7 +39,7 @@ While going through reddit i saw this post, and this hit the right spot that tra
 
 The self realisation that if you are not able to solve the current situation doesn't make you dumb is extremely important. This allows you to move from helpless mindset to a problem solving mindset. This is the post that i needed to transform my thinking as well.
 
-Since, i couldn't any framework that can be applied to this situation. I combined 2 models to solve my situation.I found that that a combination of  'The Pareto principle' and 'The semantic tree approach' works charmingly in these situations. More on this in the coming posts
+Since, i couldn't any framework that can be applied to this situation. I combined 2 models to solve my situation.I found that that a combination of  '[The Pareto principle](/posts/2022-01-27-blog-theparetoprinciple)' and '[The semantic tree approach](/posts/2022-01-28-blog-semantick)' works charmingly in these situations.
 
 Is there any other framework that you have applied to solve these situations?
 

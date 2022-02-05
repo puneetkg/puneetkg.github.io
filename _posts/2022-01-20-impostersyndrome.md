@@ -57,7 +57,7 @@ Once you end the day, come back to the notebook/journal and fill it the reasons 
 ### Why does this work?
 
 This works because..
-* You are re teaching your brain to think in a positive way rather than negative
+* You are teaching your brain to think in a positive way rather than negative
 * You behavior will change because you want to fill out the reasons at the end of the day (This might feel like cheating, but that is just an initial phase)
 * You are acknowledging that your thinking is not fixed. It can change and it can be a good place to be in.
 
