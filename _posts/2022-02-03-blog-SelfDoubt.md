@@ -3,8 +3,8 @@ title: "Improve your odds of success by doing this one thing"
 date: 2022-02-03
 tags: [mindset, self doubt, success factors, inner critic]
 header:
-  overlay_image: "/images/2022-02-02-marsh.jpg"
-  teaser: "/images/2022-02-02-marsh.jpg"
+  overlay_image: "/images/2022-02-03-selfdoubt.jpg"
+  teaser: "/images/2022-02-03-selfdoubt.jpg"
 excerpt: "How to silence your inner critic and drastically improve your chances of success"
 mathjax: true
 author: "Puneet Gupta"
