@@ -17,7 +17,7 @@ Constant moaning and complaining about how others have been impartial to me inst
 
 
 **How to make peace with circumstances?** <br />
-In my college years, some time in 2011-2012, I with my team of 4 people went to compete in RoboWars at IITBHU tech fest. During that time, we spent a lot of time visiting other events during this fest. I signed up for this one event that was talking about entrepreneurship(This was when starting a new company was not considered as cool). In this event, Dr. Puneet Bindlish came in to explain concepts of management. While i do not remember the complete session, this one lesson has changed my life.
+In my college years, some time in 2011-2012, I with my team of 4 folks went to compete in RoboWars at IITBHU tech fest. During that time, we spent a lot of time visiting other events during this fest. I signed up for this one event that was talking about entrepreneurship(This was when starting a new company was not considered as cool). In this event, Dr. Puneet Bindlish came in to explain concepts of management. While i do not remember the complete session, this one lesson has changed my life.
 
 Puneet asked for 5 volunteers, I was one of them. He then pointed to a bowl full of colorful Gems(~M&Ms). He mentioned do not take more than seven.
 Once everyone of us took seven pieces. He went on to explain that no one has same resources available with them, some high number of blue gems depicting high capital, some have high green ones depicting better access to VCs. But No two individuals have the same number of all colored gems. Same is the case with circumstances, you can not change your parents, their experiences, your city, your life. You have to make the best of what you have.

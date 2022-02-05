@@ -1,7 +1,7 @@
 ---
 title: "Tough Decisions"
 date: 2022-01-25
-tags:
+tags: [decision making, tough decisions, mindset]
 header:
   overlay_image: "/images/2022-01-25-tough_decision.jpg"
   teaser: "/images/2022-01-25-tough_decision.jpg"
