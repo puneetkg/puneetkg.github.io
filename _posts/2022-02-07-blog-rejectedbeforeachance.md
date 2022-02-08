@@ -1,5 +1,5 @@
 ---
-title: "The surprise of an uncalled rejection"
+title: "The pain of an Uncalled Rejection"
 date: 2022-02-07
 tags: [mindset, rejection, failure, self worth, inferiority complex]
 header:
