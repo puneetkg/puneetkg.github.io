@@ -5,7 +5,7 @@ tags: [mindset, change management]
 header:
   overlay_image: "/images/2022-02-18-think.jpg"
   teaser: "/images/2022-05-22-think.jpg"
-excerpt: "Everything that can go wrong will go wrong"
+excerpt: "Dubai the Gulf Tiger"
 mathjax: true
 author: "Puneet Gupta"
 category: blog
