@@ -3,8 +3,8 @@ title: "Moving to a new Country"
 date: 2022-05-22
 tags: [mindset, change management]
 header:
-  overlay_image: "/images/2022-02-18-panic.jpg"
-  teaser: "/images/2022-02-18-panic.jpg"
+  overlay_image: "/images/2022-02-18-think.jpg"
+  teaser: "/images/2022-05-22-think.jpg"
 excerpt: "Everything that can go wrong will go wrong"
 mathjax: true
 author: "Puneet Gupta"
