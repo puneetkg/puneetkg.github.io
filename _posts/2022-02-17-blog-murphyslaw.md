@@ -13,12 +13,12 @@ category: blog
 
 I saw the murphy's law live in action.
 
+**What is Murphy's law?**
 
 "Everything that can go wrong will go wrong"
 
-And i have seen this in the past week. Everything fell apart
+And i have seen this in the past week. Everything fell apart.
 
-Will share what i have learny in the past eek and how that is going to change my life.
 
 Have you ever seen murphy's law in action?
 
