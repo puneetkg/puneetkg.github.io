@@ -5,7 +5,7 @@ tags: [mindset, change management]
 header:
   overlay_image: "/images/2022-02-18-Dubai.jpg"
   teaser: "/images/2022-05-22-Dubai.jpg"
-excerpt: ""
+excerpt: "Understanding the history of the place you are living in"
 mathjax: true
 author: "Puneet Gupta"
 category: blog

@@ -5,7 +5,7 @@ tags: [mindset, change management]
 header:
   overlay_image: "/images/2022-02-23-change.jpg"
   teaser: "/images/2022-05-23-change.jpg"
-excerpt: ""
+excerpt: "Creating a new identity"
 mathjax: true
 author: "Puneet Gupta"
 category: blog
