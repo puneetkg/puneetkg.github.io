@@ -10,13 +10,13 @@ main:
   - title: "Mindset"
     url: /blog/
 
-  - title: "Data Analysis"
+  - title: "Code with me"
     url: /projects/
 
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Case Studies"
+  - title: "Business cases"
     url: /articles/
   # - title: "Sample Collections"
   #   url: /collection-archive/
