@@ -5,7 +5,7 @@ tags: [mindset, change management, new country]
 header:
   overlay_image: "/images/2022-02-23-run.jpg"
   teaser: "/images/2022-05-23-run.jpg"
-excerpt: ""
+excerpt: "teething issues in a new country and culture"
 mathjax: true
 author: "Puneet Gupta"
 category: blog
