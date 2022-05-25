@@ -3,7 +3,7 @@ title: "Moving to a new Country"
 date: 2022-05-22
 tags: [mindset, change management]
 header:
-  overlay_image: "/images/2022-02-21-think.jpg"
+  overlay_image: "/images/2022-05-21-think.jpg"
   teaser: "/images/2022-05-21-think.jpg"
 excerpt: "Dubai the Gulf Tiger"
 mathjax: true

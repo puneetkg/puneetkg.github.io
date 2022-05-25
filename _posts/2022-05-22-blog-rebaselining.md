@@ -3,7 +3,7 @@ title: "Establishing contact with Dubai"
 date: 2022-05-22
 tags: [mindset, change management]
 header:
-  overlay_image: "/images/2022-02-18-Dubai.jpg"
+  overlay_image: "/images/2022-05-18-Dubai.jpg"
   teaser: "/images/2022-05-22-Dubai.jpg"
 excerpt: "Understanding the history of the place you are living in"
 mathjax: true

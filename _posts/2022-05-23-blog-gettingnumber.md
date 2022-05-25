@@ -3,7 +3,7 @@ title: "Recreating your identity"
 date: 2022-05-23
 tags: [mindset, change management, new country]
 header:
-  overlay_image: "/images/2022-02-23-change.jpg"
+  overlay_image: "/images/2022-05-23-change.jpg"
   teaser: "/images/2022-05-23-change.jpg"
 excerpt: "Creating a new identity"
 mathjax: true
