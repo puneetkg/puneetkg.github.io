@@ -11,7 +11,7 @@ author: "Puneet Gupta"
 category: blog
 ---
 
-##Decision making
+## Decision making
 
 Nothing in this world is free. There is tradeoff everywhere. How do you take a decision when there is a tradeoff at play. You first understand what do you want out of that decision. What is/are your success metric/s (meaning what you feel is important at the end of the decision).
 
