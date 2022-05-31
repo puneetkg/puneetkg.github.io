@@ -19,4 +19,4 @@ Have you been to Dubai before? How was the trip like?
 
 ~P
 
- <span style="font-size:2em" *P.S. - I seriously need to understand how to journal* </span>
+<font size="1"> *P.S. - I seriously need to understand how to journal* </font>
