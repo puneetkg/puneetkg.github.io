@@ -15,9 +15,9 @@ category: blog
 
 Ran around to find a medical centre that gives me a PCR test within 12 hours, which i need to get my emirates ID done. The Biometrics are an essential part of creating an emirates ID.
 
-*P.S. - I seriously need to understand how to journal*
-
 Have you been to Dubai before? How was the trip like?
 
 
 ~P
+
+ <span font-size:4em; *P.S. - I seriously need to understand how to journal* </span>
