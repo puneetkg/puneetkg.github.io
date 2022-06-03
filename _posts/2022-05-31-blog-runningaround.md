@@ -4,7 +4,7 @@ date: 2022-05-31
 tags: [mindset]
 header:
   overlay_image: "/images/2022-05-31-run_run_far.jpg"
-  teaser: "/images/2022-05-30-run_run_far.jpg"
+  teaser: "/images/2022-05-31-run_run_far.jpg"
 excerpt: "Run around to get things done"
 mathjax: true
 author: "Puneet Gupta"
