@@ -5,7 +5,7 @@ tags: [mindset]
 header:
   overlay_image: "/images/2022-06-02-cake.jpg"
   teaser: "/images/2022-06-02-cake.jpg"
-excerpt: ""
+excerpt: "Start a new Chapter from today"
 mathjax: true
 author: "Puneet Gupta"
 category: blog
