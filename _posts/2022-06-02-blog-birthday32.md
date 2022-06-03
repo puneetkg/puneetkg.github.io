@@ -23,7 +23,7 @@ Who knows what one should feel on their birthdays, as long as you are surrounded
 - Inflation over 7 years was ~22% and taking that into account, the amount becomes ~$98K. i.e. ~80 Lacs post tax, i.e. ~1.2Cr pre Tax per annum.
 - The final adjustment is to take into account the purchasing power and expense of living . $100K is 35Lacs pre tax i.e. ~50Lac per annum in India
 
-So in order to lead the happiest life you need to hit the 50 Lac per annum mark and lead a happy life.
+So, in order to lead the happiest life you need to hit the 50 Lac per annum mark and lead a happy life.
 
 Anyway, we ended up having dinner in "Go Thai" near Sharjah, a friendly advise do not ever order soupy noodles if you are not that much hungry. The Bowl is huge.
 
