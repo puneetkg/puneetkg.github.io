@@ -62,7 +62,7 @@ This works because..
 * You are acknowledging that your thinking is not fixed. It can change and it can be a good place to be in.
 
 *Note:
-This post is heavily influenced and inspired by Campbell Walker AKA "Struthless". Please check him out. He makes a banger videos that hit not your brain but your mind*
+This post is heavily influenced and inspired by Campbell Walker AKA "Struthless". Please check him out. He makes banger videos that hit your brain and your mind*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VHkfEoc-3mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
