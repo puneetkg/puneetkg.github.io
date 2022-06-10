@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Case Studies"
+title: "Write-Ups"
 permalink: /articles/
 author_profile: true
 header:

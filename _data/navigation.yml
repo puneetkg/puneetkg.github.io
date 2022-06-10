@@ -16,7 +16,7 @@ main:
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Writeups"
+  - title: "Write-Ups"
     url: /articles/
   # - title: "Sample Collections"
   #   url: /collection-archive/
