@@ -1,14 +1,14 @@
 ---
-title: "The 32nd Birthday"
-date: 2022-06-02
-tags: [mindset]
+title: "Impact of Products on Consumer Behavior"
+date: 2022-06-10
+tags: [Product management,Consumer Behavior]
 header:
-  overlay_image: "/images/2022-06-02-cupcake.jpg"
-  teaser: "/images/2022-06-02-cupcake.jpg"
-excerpt: "Start a new Chapter from today"
+  overlay_image: "/images/2022-06-10-.jpg"
+  teaser: "/images/2022-06-10-.jpg"
+excerpt: "Do Products lead to change in Consumer Behavior?"
 mathjax: true
 author: "Puneet Gupta"
-category: blog
+category: article
 ---
 
 # The Birthday Overseas
