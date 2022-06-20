@@ -22,8 +22,8 @@ Eg: Consider an office where the employees' data like joining date, salary, empl
 
 | emp ID | Name | joining Date | Salary | mail id |
 | --- | --- | --- | --- | --- |
-| 123 | Akshay | 2001-03-12 | 500000 | ak.shay@company.com |
-| 124 | Puneet | 2000-03-22 | 700000 | pu.neet@company.com |
+| 123 | Blob | 2001-03-12 | 500000 | bl.ob@company.com |
+| 124 | crash | 2000-03-22 | 700000 | cr.ash@company.com |
 | 125 | Max | 2000-01-12 | 1000000 | ma.x@company.com |
 
 Once you have this data, to analyse this data you need to be able to read the data correctly and then place it in a data-frame to be able to use it.
