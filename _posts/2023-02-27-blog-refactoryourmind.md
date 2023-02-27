@@ -1,6 +1,6 @@
 ---
 title: "How Lewis Hamilton and Narayan from Mensa Brands Changed my perspective towards what i was doing"
-date: 2023-02-28
+date: 2023-02-27
 tags: [mindset]
 header:
   overlay_image: "/images/2023-02-27-focus.jpg"
