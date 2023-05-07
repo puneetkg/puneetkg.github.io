@@ -29,13 +29,13 @@ Spearhead into all the tasks and give as much time as you require to understand 
 - Time consuming
 - Taxing on other areas of your life.
 
-**Not an optimal solution**
+**NOTE:Not an optimal solution**
 
 As you grow you realise the most valuable thing you have is time, you need to deploy time extremely carefully, If effective time management is mastered, you can master anything in life. When it comes to your time, the early you understand that you need to behave like the character 'Smegal' from Lord of the rings the better you are in the long term.
 ![Smegal](/images/2022-01-26-myprecious.gif"Smegal-My precious")
 
 While going through reddit i saw this post, and this hit the right spot that transformed my thinking.
-![Twitter Post](/images/2022-01-26-redditpost.jpg "The post that the whole world felt")
+![Twitter Post](/images/2022-01-26-redditpost.jpeg "The post that the whole world felt")
 
 The self realisation that if you are not able to solve the current situation doesn't make you dumb is extremely important. This allows you to move from helpless mindset to a problem solving mindset. This is the post that i needed to transform my thinking as well.
 
